@@ -1,0 +1,101 @@
+<meta http-equiv='Content-Type' content='application/vnd.ms-excel' charset='utf-8'>
+<style>td {  font-family:Courier;    font-size:8pt;   align:left;     }
+UL { PADDING-RIGHT: 0px;  PADDING-LEFT: 0px;   PADDING-BOTTOM: 0px;    MARGIN: 4px 0px 4px 20px;    PADDING-TOP: 0px;}
+     </style>
+<div align=left><font face=Verdana size=2><b>Clinical Data Analysis & Reporting System</b><br><i>Out-Patient Appointment Analysis</i><br><br><b><u>Glaucoma drugs HKWC 2019</u></b></font>
+
+<table></table><div><font face= Verdana  size=2>Service Type (EIS) in (<ul><li class="ListTable">BLLS</li><li class="ListTable">CCDS</li><li class="ListTable">M</li><li class="ListTable">P</li><li class="ListTable">P_G</li><li class="ListTable">PPSC</li><li class="ListTable">PSAC</li><li class="ListTable">PSC</li><li class="ListTable">S</li><li class="ListTable">S+P</li><li class="ListTable">S_CU</li><li class="ListTable">S_T</li><li class="ListTable">W</li></ul>)&nbsp;<font color='red'>AND</font><br>Clinic Name in (<ul><li class="ListTable">DKH</li><li class="ListTable">DTR(QMH)</li><li class="ListTable">FYK</li><li class="ListTable">GH</li><li class="ListTable">MMRC</li><li class="ListTable">NLH</li><li class="ListTable">QMH</li><li class="ListTable">SYP(QMH)</li><li class="ListTable">TCN(QMH)</li><li class="ListTable">TWH</li><li class="ListTable">TYH</li></ul>)&nbsp;<font color='red'>AND</font><br>Attendance Date between 01/01/2019 and 31/12/2019&nbsp;<font color='red'>AND</font><br>( &laquo; Drug dispensed on Attendance{<br>Therapeutic Classification (BNF, Principal) in (<ul><li class="ListTable">Drug BNF: 11.6  TREATMENT OF GLAUCOMA</li></ul>)} &raquo;)<br><br><br><br>As of 15/03/2022 15:50, data available was up to 13/03/2022. <br><br><i>Request ID: 6360751 ;&nbsp;&nbsp;Submitted by HO, WING LAU, GH;&nbsp;&nbsp;Layout Option: Selected Code</font></i></div>
+<div><font face= Verdana  size=1><table></table></div>
+<table id=datatable bgcolor='#006699'borderColor=#000000 border=1 cellspacing=0>
+<tr valign=bottom bgcolor=#99CCFF>
+<td align=left width=230>Therapeutic Classification (BNF, Principal)
+<td align=left width=280>OP Drug Name
+<td align=left width=230>OP Quantity (Named Patient)
+<td align=left width=230>OP Dispensing Expenditure (Named Patient)
+<td align=left width=230>OP No. of Item Prescribed
+<td align=left width=230>Prescription Duration (Days)
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">ACETAZOLAMIDE<td  align=right>24375<td  align=right>36991.0<td  align=right>476<td  align=right>9591
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">AZARGA&#32;(OR&#32;EQUIV)<td  align=right>4890<td  align=right>265614.0<td  align=right>1113<td  align=right>112089
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">BETAXOLOL&#32;(HCL)<td  align=right>475<td  align=right>22119.0<td  align=right>87<td  align=right>11761
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">BIMATOPROST<td  align=right>1689<td  align=right>94036.0<td  align=right>387<td  align=right>45282
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">BRIMONIDINE&#32;TARTRATE<td  align=right>15491<td  align=right>713943.0<td  align=right>3210<td  align=right>342576
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">BRINZOLAMIDE<td  align=right>8802<td  align=right>566374.0<td  align=right>1884<td  align=right>175691
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">CARTEOLOL&#32;HCL<td  align=right>65<td  align=right>3380.0<td  align=right>11<td  align=right>1571
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">COMBIGAN&#32;(OR&#32;EQUIV)<td  align=right>6381<td  align=right>331812.0<td  align=right>1477<td  align=right>147927
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">COSOPT&#32;(OR&#32;EQUIV)<td  align=right>5700<td  align=right>183876.0<td  align=right>1228<td  align=right>126090
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">COSOPT&#32;(OR&#32;EQUIV)&#32;(PRESERVATIVE&#32;FRE<td  align=right>1560<td  align=right>14040.0<td  align=right>11<td  align=right>952
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">DORZOLAMIDE&#32;(HCL)<td  align=right>469<td  align=right>23809.0<td  align=right>159<td  align=right>12207
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">DUOTRAV&#32;(OR&#32;EQUIV)<td  align=right>2182<td  align=right>209739.0<td  align=right>504<td  align=right>49017
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">GANFORT&#32;(OR&#32;EQUIV)<td  align=right>1138<td  align=right>106972.0<td  align=right>289<td  align=right>29520
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">GANFORT&#32;(OR&#32;EQUIV)&#32;(PRESERVATIVE&#32;FR<td  align=right>86230<td  align=right>270184.0<td  align=right>1015<td  align=right>84106
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">LATANOPROST<td  align=right>8747<td  align=right>191034.0<td  align=right>2240<td  align=right>234325
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">LATANOPROST&#32;(PRESERVATIVE&#32;FREE)<td  align=right>1680<td  align=right>0.0<td  align=right>21<td  align=right>1638
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">PILOCARPINE&#32;HCL<td  align=right>649<td  align=right>18235.0<td  align=right>340<td  align=right>17272
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">SIMBRINZA&#32;(OR&#32;EQUIV)<td  align=right>3834<td  align=right>231823.0<td  align=right>1446<td  align=right>96415
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">TAFLUPROST&#32;(PRESERVATIVE&#32;FREE)<td  align=right>33460<td  align=right>36624.0<td  align=right>360<td  align=right>32016
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">TIMOLOL&#32;(MALEATE)<td  align=right>13965<td  align=right>100831.0<td  align=right>2976<td  align=right>331659
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">TIMOLOL&#32;(MALEATE)&#32;(PRESERVATIVE&#32;FRE<td  align=right>96<td  align=right>2765.0<td  align=right>71<td  align=right>4557
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">TIMOLOL&#32;(MALEATE)&#32;EYE&#32;DROPS<td  align=right>14<td  align=right>95.0<td  align=right>4<td  align=right>392
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">TIMOLOL&#32;(MALEATE)&#32;EYE&#32;DROPS,<td  align=right>2<td  align=right>115.0<td  align=right>1<td  align=right>63
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">TIMOLOL&#32;(MALEATE)&#32;EYE&#32;DROPS,&#32;GEL-FO<td  align=right>77<td  align=right>4560.0<td  align=right>26<td  align=right>2226
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">TIMOLOL&#32;(MALEATE)&#32;EYE&#32;DROPS,GEL-FOR<td  align=right>4<td  align=right>229.0<td  align=right>1<td  align=right>84
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">TIMOLOL&#32;(MALEATE)&#32;EYE&#32;DROPS.&#32;GEL-FO<td  align=right>4<td  align=right>199.0<td  align=right>1<td  align=right>112
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">TIMOLOL&#32;(MALEATE)EYE&#32;DROPS,&#32;GEL-FOR<td  align=right>3<td  align=right>171.0<td  align=right>1<td  align=right>84
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td  style="vnd.ms-excel.numberformat:@">TRAVOPROST<td  align=right>3974<td  align=right>352997.0<td  align=right>763<td  align=right>91662
+<tr bgcolor=#DDFFFF>
+<td  style="vnd.ms-excel.numberformat:@">11.6<td >XALACOM&#32;(OR&#32;EQUIV)<td  align=right>7191<td  align=right>160100.0<td  align=right>2026<td  align=right>191213
+<tr bgcolor='#000099'><td  colspan=2 align=right valign=bottom ><font color='#FFFFFF'>Grand Total : 
+<td  align=right> <font color='#FFFFFF'>233147<td  align=right> <font color='#FFFFFF'>3942668.0<td  align=right> <font color='#FFFFFF'>22128<td  align=right> <font color='#FFFFFF'>2152098
+</table><BR>
+
+<p><table><b><font style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#000000; font-size: 8pt;'>::&nbsp;Reminder</font></b>
+<ul style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#000000; font-size: 12pt;'>
+<li><font color=red><b>Grand Total</b></font> and <font color=red><b>sub-total</b></font> are not simple sum-ups of all the figures.</li>
+<li>Please refer to the linkage between Out-Patient and other data sources as listed below.
+ <table border=1>
+ <tr style='background:#C5D9F1'><td>Data source at OP</td><td>Linkage</td></tr>
+ <tr><td>Procedure Done On Attendance</td><td>Patient ID ,Hospital Management and Procedure reference Date</td></tr>
+ <tr><td>ERS Record</td><td>Patient ID ,Hospital Management and ERS Exam Date</td></tr>
+ <tr><td>Drug dispensed on Attendance</td><td>Patient ID ,Hospital Management and Dispensing Date</td></tr>
+ <tr><td>Radiology Test Done On Attendance</td><td>Patient ID and RIS Exam Date</td></tr>
+ <tr><td>FM Module: Attendance Reason</td><td>Patient ID and Clinical Note Date </td></tr>
+ <tr><td>FM Module: Clinical Note On Attendance</td><td>Patient ID and Clinical Note Date </td></tr>
+ <tr><td>FM Module: Health Status / Examination / Investigation Result On Attendance</td><td>Patient ID ,Hospital Management and Result Date </td></tr>
+ </table>
+</li>
+</ul></table></p>
+
+<p><table><b><font style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#FF0000; font-size: 8pt;'>::&nbsp;Disclaimer</font></b>
+<ul style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#FF0000; font-size: 8pt;'>
+<li>It is a good practice to seek endorsement from relevant parties (e.g. Head of Department, COC) in the HA before disclosure and/or publication of research and study results, particularly when the data are not from your own department.</li>
+<li>The researcher of any study project, clinical audit or publication that employs clinical information taken from CDARS should ensure that the data accuracy and completeness fit the definition of the research protocol.</li>
+</ul></table></p>
+

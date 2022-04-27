@@ -1,0 +1,51 @@
+<meta http-equiv='Content-Type' content='application/vnd.ms-excel' charset='utf-8'>
+<style>td {  font-family:Courier;    font-size:8pt;   align:left;     }
+UL { PADDING-RIGHT: 0px;  PADDING-LEFT: 0px;   PADDING-BOTTOM: 0px;    MARGIN: 4px 0px 4px 20px;    PADDING-TOP: 0px;}
+     </style>
+<div align=left><font face=Verdana size=2><b>Clinical Data Analysis & Reporting System</b><br><i>Out-Patient Appointment Analysis</i><br><br><b><u>Glaucoma laser KWC 2012</u></b></font>
+
+<table></table><div><font face= Verdana  size=2>Service Type (EIS) in (<ul><li class="ListTable">BLLS</li><li class="ListTable">CCDS</li><li class="ListTable">M</li><li class="ListTable">P</li><li class="ListTable">P_G</li><li class="ListTable">PPSC</li><li class="ListTable">PSAC</li><li class="ListTable">PSC</li><li class="ListTable">S</li><li class="ListTable">S+P</li><li class="ListTable">S_CU</li><li class="ListTable">S_T</li><li class="ListTable">W</li></ul>)&nbsp;<font color='red'>AND</font><br>Clinic Name in (<ul><li class="ListTable">CMC</li><li class="ListTable">EKP(KCH)</li><li class="ListTable">HKCGOPC(KCH)</li><li class="ListTable">HKCGOPC(PMH)</li><li class="ListTable">KCH</li><li class="ListTable">LTRGOPC(YCH)</li><li class="ListTable">NLTH</li><li class="ListTable">PMH</li><li class="ListTable">SC(KCH)</li><li class="ListTable">SKC(KCH)</li><li class="ListTable">YCH</li><li class="ListTable">YMTJCC(KCH)</li><li class="ListTable">YMTSCE(KCH)</li></ul>)&nbsp;<font color='red'>AND</font><br>Attendance Date between 01/01/2012 and 31/12/2012&nbsp;<font color='red'>AND</font><br>( &laquo; Procedure Done On Attendance{<br>Procedure Code in (<ul><li class="ListTable">Start With 12.56 Trabeculoplasty by laser</li><li class="ListTable">Start With 12.36 Iridoplasty & coreoplasty by laser</li><li class="ListTable">Start With 12.73 CYCLOPHOTOCOAGULATION</li><li class="ListTable">Start With 12.10 Iridotomy by laser</li></ul>)} &raquo;)<br><br><br><br>As of 19/02/2022 22:20, data available was up to 18/02/2022. <br><br><i>Request ID: 6333398 ;&nbsp;&nbsp;Submitted by DR. HO WING LAU, QMH;&nbsp;&nbsp;Layout Option: Selected Code</font></i></div>
+<div><font face= Verdana  size=1><table></table></div>
+<table id=datatable bgcolor='#006699'borderColor=#000000 border=1 cellspacing=0>
+<tr valign=bottom bgcolor=#99CCFF>
+<td align=left width=230>Reference Key
+<td align=left width=320>OP Appointment
+<td align=left width=230>Most Recent Procedures Performed on Attendance 1 - Procedure Description
+<td align=left width=230>Most Recent Procedures Performed on Attendance 2 - Procedure Description
+<td align=left width=230>Most Recent Procedures Performed on Attendance 3 - Procedure Description
+<td align=left width=230>Most Recent Procedures Performed on Attendance 4 - Procedure Description
+<td align=left width=230>Most Recent Procedures Performed on Attendance 5 - Procedure Description
+<tr bgcolor=#DDFFFF>
+<td >1060649<td  style="vnd.ms-excel.numberformat:@">CMC:EYE&#32;12181667:2012-07-11:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2069990<td  style="vnd.ms-excel.numberformat:@">CMC:EYE&#32;12247757:2012-12-03:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5657695<td  style="vnd.ms-excel.numberformat:@">CMC:EYE&#32;12104999:2012-01-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6647034<td  style="vnd.ms-excel.numberformat:@">CMC:EYE&#32;12129363:2012-06-07:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8386082<td  style="vnd.ms-excel.numberformat:@">CMC:EYE&#32;1215045C:2012-04-26:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+</table><BR>
+<font face='Verdana' size=2>No. of Records :5
+<p><table><b><font style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#000000; font-size: 8pt;'>::&nbsp;Reminder</font></b>
+<ul style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#000000; font-size: 12pt;'>
+<li>Please refer to the linkage between Out-Patient and other data sources as listed below.
+ <table border=1>
+ <tr style='background:#C5D9F1'><td>Data source at OP</td><td>Linkage</td></tr>
+ <tr><td>Procedure Done On Attendance</td><td>Patient ID ,Hospital Management and Procedure reference Date</td></tr>
+ <tr><td>ERS Record</td><td>Patient ID ,Hospital Management and ERS Exam Date</td></tr>
+ <tr><td>Drug dispensed on Attendance</td><td>Patient ID ,Hospital Management and Dispensing Date</td></tr>
+ <tr><td>Radiology Test Done On Attendance</td><td>Patient ID and RIS Exam Date</td></tr>
+ <tr><td>FM Module: Attendance Reason</td><td>Patient ID and Clinical Note Date </td></tr>
+ <tr><td>FM Module: Clinical Note On Attendance</td><td>Patient ID and Clinical Note Date </td></tr>
+ <tr><td>FM Module: Health Status / Examination / Investigation Result On Attendance</td><td>Patient ID ,Hospital Management and Result Date </td></tr>
+ </table>
+</li>
+</ul></table></p>
+
+<p><table><b><font style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#FF0000; font-size: 8pt;'>::&nbsp;Disclaimer</font></b>
+<ul style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#FF0000; font-size: 8pt;'>
+<li>It is a good practice to seek endorsement from relevant parties (e.g. Head of Department, COC) in the HA before disclosure and/or publication of research and study results, particularly when the data are not from your own department.</li>
+<li>The researcher of any study project, clinical audit or publication that employs clinical information taken from CDARS should ensure that the data accuracy and completeness fit the definition of the research protocol.</li>
+</ul></table></p>
+

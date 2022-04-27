@@ -1,0 +1,187 @@
+<meta http-equiv='Content-Type' content='application/vnd.ms-excel' charset='utf-8'>
+<style>td {  font-family:Courier;    font-size:8pt;   align:left;     }
+UL { PADDING-RIGHT: 0px;  PADDING-LEFT: 0px;   PADDING-BOTTOM: 0px;    MARGIN: 4px 0px 4px 20px;    PADDING-TOP: 0px;}
+     </style>
+<div align=left><font face=Verdana size=2><b>Clinical Data Analysis & Reporting System</b><br><i>Out-Patient Appointment Analysis</i><br><br><b><u>Glaucoma laser KEC 2009</u></b></font>
+
+<table></table><div><font face= Verdana  size=2>Service Type (EIS) in (<ul><li class="ListTable">BLLS</li><li class="ListTable">CCDS</li><li class="ListTable">M</li><li class="ListTable">P</li><li class="ListTable">P_G</li><li class="ListTable">PPSC</li><li class="ListTable">PSAC</li><li class="ListTable">PSC</li><li class="ListTable">S</li><li class="ListTable">S+P</li><li class="ListTable">S_CU</li><li class="ListTable">S_T</li><li class="ListTable">W</li></ul>)&nbsp;<font color='red'>AND</font><br>Clinic Name in (<ul><li class="ListTable">HHH</li><li class="ListTable">PYPKT(UCH)</li><li class="ListTable">TKOH</li><li class="ListTable">UCH</li><li class="ListTable">YFSMC(UCH)</li></ul>)&nbsp;<font color='red'>AND</font><br>Attendance Date between 01/01/2009 and 31/12/2009&nbsp;<font color='red'>AND</font><br>( &laquo; Procedure Done On Attendance{<br>Procedure Code in (<ul><li class="ListTable">Start With 12.56 Trabeculoplasty by laser</li><li class="ListTable">Start With 12.36 Iridoplasty & coreoplasty by laser</li><li class="ListTable">Start With 12.73 CYCLOPHOTOCOAGULATION</li><li class="ListTable">Start With 12.10 Iridotomy by laser</li></ul>)} &raquo;)<br><br><br><br>As of 21/02/2022 14:58, data available was up to 20/02/2022. <br><br><i>Request ID: 6333435 ;&nbsp;&nbsp;Submitted by DR. HO WING LAU, QMH;&nbsp;&nbsp;Layout Option: Selected Code</font></i></div>
+<div><font face= Verdana  size=1><table></table></div>
+<table id=datatable bgcolor='#006699'borderColor=#000000 border=1 cellspacing=0>
+<tr valign=bottom bgcolor=#99CCFF>
+<td align=left width=230>Reference Key
+<td align=left width=320>OP Appointment
+<td align=left width=230>Most Recent Procedures Performed on Attendance 1 - Procedure Description
+<td align=left width=230>Most Recent Procedures Performed on Attendance 2 - Procedure Description
+<td align=left width=230>Most Recent Procedures Performed on Attendance 3 - Procedure Description
+<td align=left width=230>Most Recent Procedures Performed on Attendance 4 - Procedure Description
+<td align=left width=230>Most Recent Procedures Performed on Attendance 5 - Procedure Description
+<tr bgcolor=#DDFFFF>
+<td >310108<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0641011W:2009-04-06:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >331690<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9542748W:2009-02-09:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >391582<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0322633Q:2009-02-12:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >744492<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0440367Y:2009-03-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1474912<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9551541V:2009-02-19:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1474912<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9551541V:2009-02-19:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1488096<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9745237S:2009-02-16:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1488096<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9745237S:2009-02-16:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1491169<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9741910T:2009-10-08:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1505101<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0832796Y:2009-02-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1506502<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9633072O:2009-01-15:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1506502<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9633072O:2009-08-31:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1506502<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9633072O:2009-08-31:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1508665<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9440121R:2009-12-29:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1513376<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9658543T:2009-07-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1513601<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9445740T:2009-07-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1513601<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9445740T:2009-07-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1513601<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9445740T:2009-07-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1533223<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9435443U:2009-04-20:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2007570<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9851923T:2009-12-29:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2024306<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9619342P:2009-03-12:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2160537<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0828860R:2009-04-06:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2333619<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9937700O:2009-01-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2335184<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9925530S:2009-07-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2335184<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9925530S:2009-07-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2335184<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9925530S:2009-07-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2359844<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9826293T:2009-12-29:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2381451<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9941790W:2009-10-08:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2405282<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0523290X:2009-03-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2452586<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0090212S:2009-04-20:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2509233<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0830630Y:2009-03-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2849867<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9553219Q:2009-11-23:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2868418<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9956412X:2009-08-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2925586<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9950425W:2009-12-28:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2970406<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0076256Y:2009-01-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3334986<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0736914U:2009-01-05:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3413123<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0519150P:2009-05-04:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3419456<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0619059Q:2009-06-09:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3476597<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0216394X:2009-09-21:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3702390<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9840365Q:2009-01-05:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3977019<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0217154Q:2009-01-08:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4028988<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0433853R:2009-02-19:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4084307<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0639374S:2009-02-09:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4084307<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0639374S:2009-02-09:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4135587<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD9827522O:2009-01-05:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4204497<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0523954V:2009-06-04:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4651270<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0329417U:2009-02-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4651270<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0329417U:2009-02-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4806308<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0132461Q:2009-01-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5056216<td  style="vnd.ms-excel.numberformat:@">TKO:SOPD0825695Z:2009-08-28:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5220746<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0452446X:2009-04-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5220746<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0452446X:2009-04-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5499336<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0935276R:2009-07-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5499336<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0935276R:2009-07-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5715215<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0128484Y:2009-03-05:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6173313<td  style="vnd.ms-excel.numberformat:@">TKO:SOPD0113132Y:2009-02-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6589346<td  style="vnd.ms-excel.numberformat:@">TKO:SOPD0213571Y:2009-09-01:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6596590<td  style="vnd.ms-excel.numberformat:@">TKO:SOPD0421798T:2009-02-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6807513<td  style="vnd.ms-excel.numberformat:@">TKO:SOPD0623840W:2009-02-03:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7090277<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0324350S:2009-09-28:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7134211<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0332311V:2009-09-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7134211<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0332311V:2009-09-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7341313<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0954128O:2009-12-07:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7437133<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0651774T:2009-07-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7437133<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0651774T:2009-07-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7437133<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0651774T:2009-07-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7905118<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0738367Y:2009-06-04:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7907903<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0548256T:2009-03-30:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7967507<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0837874Q:2009-03-05:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8053124<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0734117X:2009-08-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8573347<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0926833X:2009-12-07:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8762445<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0937014P:2009-08-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8863943<td  style="vnd.ms-excel.numberformat:@">UCH:SOPD0855838S:2009-02-23:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+</table><BR>
+<font face='Verdana' size=2>No. of Records :73
+<p><table><b><font style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#000000; font-size: 8pt;'>::&nbsp;Reminder</font></b>
+<ul style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#000000; font-size: 12pt;'>
+<li>Please refer to the linkage between Out-Patient and other data sources as listed below.
+ <table border=1>
+ <tr style='background:#C5D9F1'><td>Data source at OP</td><td>Linkage</td></tr>
+ <tr><td>Procedure Done On Attendance</td><td>Patient ID ,Hospital Management and Procedure reference Date</td></tr>
+ <tr><td>ERS Record</td><td>Patient ID ,Hospital Management and ERS Exam Date</td></tr>
+ <tr><td>Drug dispensed on Attendance</td><td>Patient ID ,Hospital Management and Dispensing Date</td></tr>
+ <tr><td>Radiology Test Done On Attendance</td><td>Patient ID and RIS Exam Date</td></tr>
+ <tr><td>FM Module: Attendance Reason</td><td>Patient ID and Clinical Note Date </td></tr>
+ <tr><td>FM Module: Clinical Note On Attendance</td><td>Patient ID and Clinical Note Date </td></tr>
+ <tr><td>FM Module: Health Status / Examination / Investigation Result On Attendance</td><td>Patient ID ,Hospital Management and Result Date </td></tr>
+ </table>
+</li>
+</ul></table></p>
+
+<p><table><b><font style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#FF0000; font-size: 8pt;'>::&nbsp;Disclaimer</font></b>
+<ul style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#FF0000; font-size: 8pt;'>
+<li>It is a good practice to seek endorsement from relevant parties (e.g. Head of Department, COC) in the HA before disclosure and/or publication of research and study results, particularly when the data are not from your own department.</li>
+<li>The researcher of any study project, clinical audit or publication that employs clinical information taken from CDARS should ensure that the data accuracy and completeness fit the definition of the research protocol.</li>
+</ul></table></p>
+

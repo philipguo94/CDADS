@@ -1,0 +1,743 @@
+<meta http-equiv='Content-Type' content='application/vnd.ms-excel' charset='utf-8'>
+<style>td {  font-family:Courier;    font-size:8pt;   align:left;     }
+UL { PADDING-RIGHT: 0px;  PADDING-LEFT: 0px;   PADDING-BOTTOM: 0px;    MARGIN: 4px 0px 4px 20px;    PADDING-TOP: 0px;}
+     </style>
+<div align=left><font face=Verdana size=2><b>Clinical Data Analysis & Reporting System</b><br><i>Out-Patient Appointment Analysis</i><br><br><b><u>Glaucoma laser NTWC 2015</u></b></font>
+
+<table></table><div><font face= Verdana  size=2>Service Type (EIS) in (<ul><li class="ListTable">BLLS</li><li class="ListTable">CCDS</li><li class="ListTable">M</li><li class="ListTable">P</li><li class="ListTable">P_G</li><li class="ListTable">PPSC</li><li class="ListTable">PSAC</li><li class="ListTable">PSC</li><li class="ListTable">S</li><li class="ListTable">S+P</li><li class="ListTable">S_CU</li><li class="ListTable">S_T</li><li class="ListTable">W</li></ul>)&nbsp;<font color='red'>AND</font><br>Clinic Name in (<ul><li class="ListTable">CPH</li><li class="ListTable">EKP(CPH)</li><li class="ListTable">POH</li><li class="ListTable">SLH</li><li class="ListTable">TMH</li><li class="ListTable">TMP(CPH)</li><li class="ListTable">TMP(TMH)</li><li class="ListTable">TSWH</li><li class="ListTable">YFSMC(CPH)</li><li class="ListTable">YLYOC(TMH)</li></ul>)&nbsp;<font color='red'>AND</font><br>Attendance Date between 01/01/2015 and 31/12/2015&nbsp;<font color='red'>AND</font><br>( &laquo; Procedure Done On Attendance{<br>Procedure Code in (<ul><li class="ListTable">Start With 12.56 Trabeculoplasty by laser</li><li class="ListTable">Start With 12.36 Iridoplasty & coreoplasty by laser</li><li class="ListTable">Start With 12.73 CYCLOPHOTOCOAGULATION</li><li class="ListTable">Start With 12.10 Iridotomy by laser</li></ul>)} &raquo;)<br><br><br><br>As of 23/02/2022 09:48, data available was up to 22/02/2022. <br><br><i>Request ID: 6333480 ;&nbsp;&nbsp;Submitted by DR. HO WING LAU, QMH;&nbsp;&nbsp;Layout Option: Selected Code</font></i></div>
+<div><font face= Verdana  size=1><table></table></div>
+<table id=datatable bgcolor='#006699'borderColor=#000000 border=1 cellspacing=0>
+<tr valign=bottom bgcolor=#99CCFF>
+<td align=left width=230>Reference Key
+<td align=left width=320>OP Appointment
+<td align=left width=230>Most Recent Procedures Performed on Attendance 1 - Procedure Description
+<td align=left width=230>Most Recent Procedures Performed on Attendance 2 - Procedure Description
+<td align=left width=230>Most Recent Procedures Performed on Attendance 3 - Procedure Description
+<td align=left width=230>Most Recent Procedures Performed on Attendance 4 - Procedure Description
+<td align=left width=230>Most Recent Procedures Performed on Attendance 5 - Procedure Description
+<tr bgcolor=#DDFFFF>
+<td >49981<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14169032:2015-04-28:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >56767<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1211318R:2015-05-12:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >56884<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;99209756:2015-07-06:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >69156<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1111452B:2015-10-22:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >72357<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13190445:2015-08-17:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >72357<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13190445:2015-08-24:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >74924<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1512441O:2015-12-22:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >135757<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;03176096:2015-04-24:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >296648<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC07157237:2015-06-11:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >296648<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC07157237:2015-06-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >385271<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14156631:2015-12-28:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >392796<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC06174804:2015-12-08:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >447431<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15127341:2015-03-31:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >447431<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15127341:2015-04-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >556918<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC05119028:2015-11-11:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >679152<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13170002:2015-07-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >679152<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13170002:2015-07-22:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >679152<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13170002:2015-08-03:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >729549<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC10125014:2015-02-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >732341<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;97056847:2015-03-02:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >764923<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15155922:2015-06-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >834286<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC08174593:2015-04-24:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >881638<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13194971:2015-06-09:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >881638<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13194971:2015-06-23:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >900756<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;99153491:2015-07-10:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1029224<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13118868:2015-01-05:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1037386<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC08205642:2015-08-04:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1077831<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15182008:2015-08-21:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1077831<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15182008:2015-09-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1079443<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;98466097:2015-01-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1079443<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;98466097:2015-01-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1079443<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;98466097:2015-02-10:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1081560<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15117591:2015-02-23:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1081560<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15117591:2015-03-04:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1094808<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC07134059:2015-01-12:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1108259<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15223685:2015-12-18:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1112334<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1519269B:2015-10-26:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1122723<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;00227862:2015-02-10:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1122723<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;00227862:2015-02-12:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1133216<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15162147:2015-06-29:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1133216<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15162147:2015-07-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1177855<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC11111564:2015-04-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1205598<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;94003467:2015-05-21:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1327354<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1420198A:2015-01-22:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1363680<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC09121728:2015-03-06:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1394250<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14181792:2015-05-28:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1508376<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC10184061:2015-12-28:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1596105<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15124644:2015-03-18:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1596105<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15124644:2015-03-23:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1596105<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15124644:2015-03-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1598910<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1514596A:2015-11-10:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1602178<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;02175207:2015-08-25:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1602178<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;02175207:2015-10-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1604669<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1517456B:2015-09-10:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1605996<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;0320465B:2015-06-03:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1607479<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;00199052:2015-12-18:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1613479<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;01114271:2015-02-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1614607<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;02117193:2015-03-06:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1614838<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC08154215:2015-03-02:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1614838<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC08154215:2015-03-09:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1615997<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;99177374:2015-03-06:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1615997<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;99177374:2015-03-09:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1617547<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;98016008:2015-02-23:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1619200<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC11178898:2015-09-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1623876<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;99111608:2015-03-25:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1624193<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1217912A:2015-04-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1624193<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1217912A:2015-05-04:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1624193<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1217912A:2015-07-20:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1624528<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;01157566:2015-04-27:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1624716<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;97047708:2015-11-05:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1625717<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13127492:2015-08-24:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1625717<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13127492:2015-09-01:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1631150<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12181795:2015-03-17:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1634788<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1319041B:2015-01-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1645876<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC07201341:2015-12-18:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1653729<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;98514024:2015-10-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1653729<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;98514024:2015-10-22:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1656301<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;04127552:2015-09-10:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1658145<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;97089087:2015-02-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1658145<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;97089087:2015-02-23:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1658811<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14174427:2015-04-20:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1658811<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14174427:2015-05-11:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1658932<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;03191966:2015-01-08:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1660849<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC10120705:2015-05-06:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1663908<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15183489:2015-08-31:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1663908<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15183489:2015-09-23:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1663908<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15183489:2015-10-02:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1666983<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12166214:2015-01-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1666983<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12166214:2015-02-04:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1672192<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12220995:2015-02-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1672572<td  style="vnd.ms-excel.numberformat:@">TMH:MG&nbsp;&nbsp;0808923A:2015-02-09:MED:NEUROL<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1672572<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC09204127:2015-02-09:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1676805<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14195874:2015-11-03:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1676805<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14195874:2015-11-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1681651<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1512475A:2015-04-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1682634<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC0722032A:2015-07-06:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1684801<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1511649R:2015-09-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1687700<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12126123:2015-04-10:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1687700<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12126123:2015-04-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1689716<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC07179834:2015-03-12:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1691094<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC11144985:2015-08-31:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1692613<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;04228006:2015-12-24:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1702032<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC07128776:2015-07-28:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1705054<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1510447M:2015-05-05:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1705054<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1510447M:2015-05-08:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1708371<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12158696:2015-12-24:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1714254<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15188332:2015-09-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1714254<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15188332:2015-10-07:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1735976<td  style="vnd.ms-excel.numberformat:@">TMH:YTM&#32;93042172:2015-08-12:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2006705<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15220082:2015-12-01:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2006705<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15220082:2015-12-24:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2015315<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC08156692:2015-03-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2030452<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15170905:2015-09-22:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2030452<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15170905:2015-09-25:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2034717<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;05104459:2015-05-06:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2060851<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12119313:2015-12-31:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2108723<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15113499:2015-03-06:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2132137<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15110724:2015-01-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2132525<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;95109315:2015-04-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2137842<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;04234995:2015-12-15:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2139400<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1410506S:2015-11-03:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2148505<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15213027:2015-11-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2155577<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC06110008:2015-10-05:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2173121<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;99229145:2015-03-02:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2193774<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;0121764A:2015-01-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2205902<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12110081:2015-03-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2228751<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC0620012B:2015-10-09:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td  style="vnd.ms-excel.numberformat:@">GONIOPUNCTURE<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2241029<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15133368:2015-04-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2319467<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15196173:2015-10-19:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2343199<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;02250373:2015-05-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2345910<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1513447A:2015-05-18:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2362219<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1516932A:2015-07-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2363063<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;99215772:2015-10-07:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2369105<td  style="vnd.ms-excel.numberformat:@">TMH:YTM&#32;8602234A:2015-04-20:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2373481<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12109369:2015-02-05:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2376555<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;9846199B:2015-04-28:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2409505<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC0617885B:2015-06-15:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2436827<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15155825:2015-08-19:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2437305<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15140151:2015-05-04:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2456856<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1517215B:2015-07-31:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2473127<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15140526:2015-05-08:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2473127<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15140526:2015-05-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2497684<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;02174138:2015-12-02:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2616742<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15187522:2015-09-04:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2675187<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;04149211:2015-07-06:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2675187<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;04149211:2015-07-08:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2675187<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;04149211:2015-07-14:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2780399<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC08142497:2015-06-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2829170<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13150966:2015-07-06:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2835984<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1510194P:2015-03-31:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2835984<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1510194P:2015-04-14:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2839389<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC0718358B:2015-06-17:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2839389<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC0718358B:2015-07-31:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2856233<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15125071:2015-03-24:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2856233<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15125071:2015-04-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2874961<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15190221:2015-09-14:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2874961<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15190221:2015-09-22:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2972522<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15187158:2015-09-04:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2972522<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15187158:2015-09-10:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2972522<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15187158:2015-09-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2972892<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14234438:2015-01-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2985937<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14152431:2015-02-06:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3050707<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;03214087:2015-02-13:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3093958<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC08128648:2015-04-28:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3096563<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12211406:2015-06-24:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3141777<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13171211:2015-12-31:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3279581<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC0822650A:2015-06-24:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3279654<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC07220214:2015-03-25:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">CHORIORET&#32;LES&#32;LASER&#32;COAG<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3383616<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC07182061:2015-08-25:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3407496<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;01230409:2015-07-13:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3436143<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15108207:2015-02-10:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">CHORIORET&#32;LES&#32;LASER&#32;COAG<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3436143<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15108207:2015-05-14:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3436143<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15108207:2015-05-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3436143<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15108207:2015-05-29:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3665127<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14121161:2015-01-19:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3697345<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15205326:2015-10-23:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3753219<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC0820081B:2015-05-28:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3753219<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC0820081B:2015-06-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3765661<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC10112117:2015-02-06:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3765661<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC10112117:2015-02-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3785252<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC10128196:2015-10-27:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3825385<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1511374T:2015-07-03:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3847993<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14233768:2015-05-21:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3896454<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1519790B:2015-10-05:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3896454<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1519790B:2015-10-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3896454<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1519790B:2015-10-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3986764<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15125063:2015-04-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4014917<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1118711B:2015-10-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4092253<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13115788:2015-06-05:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4223468<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12225229:2015-08-07:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4223468<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12225229:2015-08-20:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4249281<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;0312219B:2015-11-02:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4249281<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;0312219B:2015-12-23:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4350521<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15140097:2015-05-04:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4350521<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15140097:2015-05-14:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4350521<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15140097:2015-06-01:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4429380<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;05100941:2015-06-12:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4429380<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;05100941:2015-06-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4429380<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;05100941:2015-06-22:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4429380<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;05100941:2015-07-28:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4463389<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13133913:2015-01-21:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4463389<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13133913:2015-02-03:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4479396<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1523072A:2015-12-29:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4489162<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC09193257:2015-08-20:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4496815<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15214252:2015-11-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4496815<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15214252:2015-11-18:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4549612<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15182385:2015-08-21:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4563412<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;00236152:2015-02-27:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4563412<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;00236152:2015-03-17:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4591169<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1518955A:2015-09-10:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4591169<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1518955A:2015-09-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4591169<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1518955A:2015-09-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4595041<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;04160312:2015-03-09:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4624972<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15213183:2015-11-12:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4624972<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15213183:2015-11-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4650152<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1510886A:2015-01-21:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4650152<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1510886A:2015-01-23:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4652898<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15155248:2015-06-11:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4652898<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15155248:2015-06-26:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4677916<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13217114:2015-03-02:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4677916<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13217114:2015-07-16:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4700327<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC08218051:2015-05-28:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4760521<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15100087:2015-01-02:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4760521<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15100087:2015-01-06:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4817540<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1513407B:2015-04-28:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4817540<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1513407B:2015-05-11:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4817540<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1513407B:2015-12-15:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4930968<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15212241:2015-11-10:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4930968<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15212241:2015-11-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4956616<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;0412269B:2015-12-29:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">SCLERAL&#32;OPERATION&#32;NEC<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4978216<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;96004762:2015-12-29:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5048162<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13189579:2015-11-23:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5071515<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15193867:2015-11-12:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5074160<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13102007:2015-01-16:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5202928<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15199237:2015-10-07:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5202928<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15199237:2015-10-08:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5202928<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15199237:2015-10-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5246515<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1521197B:2015-11-09:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5246515<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1521197B:2015-11-19:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5268435<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1412414N:2015-05-22:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5371748<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC0712592B:2015-08-03:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5394574<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15170077:2015-07-31:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5394574<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15170077:2015-08-07:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5436623<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC09207843:2015-01-28:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5541007<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1510099U:2015-04-21:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5611800<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC10172217:2015-12-23:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5637535<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13181896:2015-09-04:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5639546<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC09213533:2015-12-26:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5639742<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14152156:2015-07-06:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5666738<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC06215365:2015-07-21:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5737405<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1118532B:2015-06-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5737405<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1118532B:2015-10-06:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5783182<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12196792:2015-01-16:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5800547<td  style="vnd.ms-excel.numberformat:@">TMH:RU&nbsp;&nbsp;1511080A:2015-09-04:ONC:ONC<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5800547<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;01136925:2015-09-04:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5809446<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;01227513:2015-09-21:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5813397<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1519563B:2015-11-02:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5813397<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1519563B:2015-11-09:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5853985<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15134925:2015-04-22:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td >Iridotomy&#32;by&#32;laser<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5853985<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15134925:2015-05-18:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5934630<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC08191099:2015-02-26:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5940088<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1019970B:2015-06-15:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5940088<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1019970B:2015-08-19:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6067637<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12114192:2015-08-06:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6067637<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12114192:2015-08-18:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6086168<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1510238V:2015-03-03:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6089331<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15212055:2015-11-17:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6232614<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15119527:2015-03-04:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6232614<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15119527:2015-03-23:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6372506<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15104031:2015-01-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6407491<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC06133865:2015-01-16:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6448340<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC05154494:2015-02-10:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td  style="vnd.ms-excel.numberformat:@">GONIOPUNCTURE<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6448340<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC05154494:2015-06-22:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6631006<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1112072O:2015-02-24:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6677283<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC0616526B:2015-08-19:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6677283<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC0616526B:2015-09-16:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6720759<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15132574:2015-06-05:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6736342<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15196149:2015-09-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6738004<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15201258:2015-10-14:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6839582<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15183802:2015-08-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6839820<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;02240106:2015-11-13:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6839820<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;02240106:2015-11-16:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6839820<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;02240106:2015-12-10:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6862655<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC11207561:2015-11-09:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6862655<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC11207561:2015-11-23:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6867831<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15211555:2015-11-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6911175<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14216936:2015-06-05:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6945465<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;03126293:2015-11-23:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6985059<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;05109272:2015-11-20:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7070855<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC08226011:2015-09-21:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7135169<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1511929L:2015-11-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7135169<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1511929L:2015-12-01:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7158135<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC13128413:2015-05-15:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7230771<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15138106:2015-04-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7302222<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;04157796:2015-10-19:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7302222<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;04157796:2015-10-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7306665<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC0712875A:2015-05-15:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7313949<td  style="vnd.ms-excel.numberformat:@">TMH:RRT&#32;1300198A:2015-04-21:MED:NEPHRO<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7313949<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC12158211:2015-04-21:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7340912<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1310601B:2015-01-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7360033<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1112755A:2015-12-22:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7441484<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC06160587:2015-04-21:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7441484<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC06160587:2015-05-05:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7635146<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1514475B:2015-05-14:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7653942<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1120936A:2015-10-09:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7678023<td  style="vnd.ms-excel.numberformat:@">TMH:YL&nbsp;&nbsp;05111285:2015-12-11:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7694510<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC07198502:2015-05-15:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7831483<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1010590B:2015-12-15:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7831483<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1010590B:2015-12-23:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7924982<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1513844B:2015-05-12:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7924982<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1513844B:2015-05-28:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7949710<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC06101785:2015-04-28:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7973574<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14207902:2015-07-03:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8051716<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15189258:2015-10-07:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8051716<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15189258:2015-10-15:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8202524<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14222324:2015-06-05:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8213744<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14109072:2015-08-04:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8230452<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1510216U:2015-12-01:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8334889<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15148667:2015-06-29:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8363433<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC09150736:2015-04-15:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8363433<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC09150736:2015-04-27:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8402735<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC07146286:2015-08-24:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8529863<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1319170B:2015-02-03:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8529863<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1319170B:2015-03-17:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8529863<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1319170B:2015-06-18:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8545000<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14230017:2015-07-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8615195<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15133686:2015-04-16:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9414469<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15174536:2015-09-10:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9414469<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15174536:2015-09-24:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9421288<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15168633:2015-07-29:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9421288<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15168633:2015-08-03:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10075575<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15174978:2015-12-15:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10075575<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15174978:2015-12-23:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10278504<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14201629:2015-01-16:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10540454<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15145676:2015-05-18:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10540454<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15145676:2015-05-26:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10660542<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15162635:2015-06-29:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10666902<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC14224688:2015-07-06:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10852085<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15102098:2015-09-11:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10928646<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15188294:2015-09-16:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10928646<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15188294:2015-10-15:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Trabeculoplasty&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10954688<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15111046:2015-01-28:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10954688<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15111046:2015-01-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10954688<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15111046:2015-01-30:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td >Iridotomy&#32;by&#32;laser<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10987143<td  style="vnd.ms-excel.numberformat:@">POH:OPH&#32;1510534R:2015-03-12:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10987143<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC1512301A:2015-03-13:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >11019656<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15133937:2015-07-31:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >11034177<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15141697:2015-05-11:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >11034177<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15141697:2015-06-03:OPH:OPH<td >Iridotomy&#32;by&#32;laser<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >11034177<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15141697:2015-06-09:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >11087005<td  style="vnd.ms-excel.numberformat:@">TMH:TMEC15162376:2015-06-26:OPH:OPH<td  style="vnd.ms-excel.numberformat:@">Laser&#32;Irido/coreoplasty<td ><td ><td ><td >
+</table><BR>
+<font face='Verdana' size=2>No. of Records :351
+<p><table><b><font style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#000000; font-size: 8pt;'>::&nbsp;Reminder</font></b>
+<ul style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#000000; font-size: 12pt;'>
+<li>Please refer to the linkage between Out-Patient and other data sources as listed below.
+ <table border=1>
+ <tr style='background:#C5D9F1'><td>Data source at OP</td><td>Linkage</td></tr>
+ <tr><td>Procedure Done On Attendance</td><td>Patient ID ,Hospital Management and Procedure reference Date</td></tr>
+ <tr><td>ERS Record</td><td>Patient ID ,Hospital Management and ERS Exam Date</td></tr>
+ <tr><td>Drug dispensed on Attendance</td><td>Patient ID ,Hospital Management and Dispensing Date</td></tr>
+ <tr><td>Radiology Test Done On Attendance</td><td>Patient ID and RIS Exam Date</td></tr>
+ <tr><td>FM Module: Attendance Reason</td><td>Patient ID and Clinical Note Date </td></tr>
+ <tr><td>FM Module: Clinical Note On Attendance</td><td>Patient ID and Clinical Note Date </td></tr>
+ <tr><td>FM Module: Health Status / Examination / Investigation Result On Attendance</td><td>Patient ID ,Hospital Management and Result Date </td></tr>
+ </table>
+</li>
+</ul></table></p>
+
+<p><table><b><font style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#FF0000; font-size: 8pt;'>::&nbsp;Disclaimer</font></b>
+<ul style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#FF0000; font-size: 8pt;'>
+<li>It is a good practice to seek endorsement from relevant parties (e.g. Head of Department, COC) in the HA before disclosure and/or publication of research and study results, particularly when the data are not from your own department.</li>
+<li>The researcher of any study project, clinical audit or publication that employs clinical information taken from CDARS should ensure that the data accuracy and completeness fit the definition of the research protocol.</li>
+</ul></table></p>
+

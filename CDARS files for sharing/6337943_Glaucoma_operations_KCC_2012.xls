@@ -1,0 +1,639 @@
+<meta http-equiv='Content-Type' content='application/vnd.ms-excel' charset='utf-8'>
+<style>td {  font-family:Courier;    font-size:8pt;   align:left;     }
+UL { PADDING-RIGHT: 0px;  PADDING-LEFT: 0px;   PADDING-BOTTOM: 0px;    MARGIN: 4px 0px 4px 20px;    PADDING-TOP: 0px;}
+     </style>
+<div align=left><font face=Verdana size=2><b>Clinical Data Analysis & Reporting System</b><br><i>In-Patient Episodes Analysis</i><br><br><b><u>Glaucoma operations KCC 2012</u></b></font>
+
+<table></table><div><font face= Verdana  size=2>Hospital Code in (<ul><li class="ListTable">BH</li><li class="ListTable">HCH</li><li class="ListTable">HKE</li><li class="ListTable">KH</li><li class="ListTable">KWH</li><li class="ListTable">OLM</li><li class="ListTable">QEH</li><li class="ListTable">RC</li><li class="ListTable">WTS</li></ul>)&nbsp;<font color='red'>AND</font><br>Discharge Date between 01/01/2012 and 31/12/2012&nbsp;<font color='red'>AND</font><br>( &laquo; Procedure{<br>Any Procedure{<br>Procedure Code in (<ul><li class="ListTable">Start With 12.51 GONIOPUNCTURE WITHOUT GONIOTOMY</li><li class="ListTable">Start With 12.52 GONIOTOMY WITHOUT GONIOPUNCTURE</li><li class="ListTable">Start With 12.53 GONIOTOMY WITH GONIOPUNCTURE</li><li class="ListTable">Start With 12.54 TRABECULOTOMY AB EXTERNO</li><li class="ListTable">Start With 12.59 OTHER FACILITATION OF INTRAOCULAR CIRCULATION</li><li class="ListTable">Start With 12.6 SCLERAL FISTULIZATION</li><li class="ListTable">Start With 12.71 CYCLODIATHERMY</li><li class="ListTable">Start With 12.72 CYCLOCRYOTHERAPY</li><li class="ListTable">Start With 12.73 CYCLOPHOTOCOAGULATION</li><li class="ListTable">Start With 12.79 OTHER GLAUCOMA PROCEDURES</li><li class="ListTable">Start With 12.69 OTHER SCLERAL FISTULIZING PROCEDURE</li><li class="ListTable">Start With 12.66 POSTOPERATIVE REVISION OF SCLERAL FISTULIZATION PROCEDURE</li><li class="ListTable">Start With 12.64 TRABECULECTOMY AB EXTERNO</li><li class="ListTable">Start With 12.65 OTHER SCLERAL FISTULIZATION WITH IRIDECTOMY</li><li class="ListTable">Equal To 13.19 (1) Combined cataract extraction and trabeculectomy</li><li class="ListTable">Start With 12.74 DIMINUTION OF CILIARY BODY, NOT OTHERWISE SPECIFIED</li></ul>)}} &raquo; )<br><br><br><br>As of 23/02/2022 16:22, data available was up to 22/02/2022. <br><br><i>Request ID: 6337943 ;&nbsp;&nbsp;Submitted by DR. HO WING LAU, QMH;&nbsp;&nbsp;Layout Option: Selected Code</font></i></div>
+<div><font face= Verdana  size=1><table></table></div>
+<table id=datatable bgcolor='#006699'borderColor=#000000 border=1 cellspacing=0>
+<tr valign=bottom bgcolor=#99CCFF>
+<td align=left width=230>Reference Key
+<td align=left width=230>HN Number
+<td align=left width=230>Institution (IPAS)
+<td align=left width=230>Procedure (rank 1)
+<td align=left width=230>Procedure (rank 2)
+<td align=left width=230>Procedure (rank 3)
+<td align=left width=230>Procedure (rank 4)
+<td align=left width=230>Procedure (rank 5)
+<td align=left width=230>Procedure Description (rank 1)
+<td align=left width=230>Procedure Description (rank 2)
+<td align=left width=230>Procedure Description (rank 3)
+<td align=left width=230>Procedure Description (rank 4)
+<td align=left width=230>Procedure Description (rank 5)
+<td align=left width=230>Procedure Date (rank 1) (yyyy-mm-dd HH:MM)
+<td align=left width=230>Procedure Date (rank 2) (yyyy-mm-dd HH:MM)
+<td align=left width=230>Procedure Date (rank 3) (yyyy-mm-dd HH:MM)
+<td align=left width=230>Procedure Date (rank 4) (yyyy-mm-dd HH:MM)
+<td align=left width=230>Procedure Date (rank 5) (yyyy-mm-dd HH:MM)
+<tr bgcolor=#DDFFFF>
+<td >41651<td >HN122011879<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-16&#32;10:02<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >41651<td >HN12204646A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.79<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-26&#32;14:22<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >41651<td >HN12204984C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.79<td  style="vnd.ms-excel.numberformat:@">10.44<td  style="vnd.ms-excel.numberformat:@">12.87<td  style="vnd.ms-excel.numberformat:@">12.92<td ><td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td  style="vnd.ms-excel.numberformat:@">CONJUNC&#32;FREE&#32;GRAFT&#32;NEC<td  style="vnd.ms-excel.numberformat:@">GRAFT&#32;REINFORCE&#32;SCLERA<td  style="vnd.ms-excel.numberformat:@">ANTERIOR&#32;CHAMBER&#32;INJECT<td ><td  style="vnd.ms-excel.numberformat:@">2012-08-09&#32;09:14<td  style="vnd.ms-excel.numberformat:@">2012-08-09&#32;09:14<td  style="vnd.ms-excel.numberformat:@">2012-08-09&#32;09:14<td  style="vnd.ms-excel.numberformat:@">2012-08-09&#32;09:14<td >
+<tr bgcolor=#DDFFFF>
+<td >41651<td >HN12206770A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-25&#32;15:51<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >41651<td >HN12207995E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-12-13&#32;14:21<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >171301<td >HN12202109D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-17&#32;14:14<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >232963<td >HN12202358E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-26&#32;15:48<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >322965<td >HN122058689<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-13&#32;15:46<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >340307<td >HN12201775E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-08&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >366085<td >HN12206767A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-25&#32;14:51<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >374137<td >HN12201517E<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-28&#32;11:23<td  style="vnd.ms-excel.numberformat:@">2012-02-28&#32;11:23<td  style="vnd.ms-excel.numberformat:@">2012-02-28&#32;11:23<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >374137<td >HN12205719F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-07&#32;09:48<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >391358<td >HN12204158C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-10&#32;15:26<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >392861<td >HN122047377<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-31&#32;15:02<td  style="vnd.ms-excel.numberformat:@">2012-07-31&#32;15:02<td  style="vnd.ms-excel.numberformat:@">2012-07-31&#32;15:02<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >645592<td >HN12202315A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-25&#32;11:31<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >657552<td >HN12202360G<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-26&#32;14:05<td  style="vnd.ms-excel.numberformat:@">2012-04-26&#32;14:05<td  style="vnd.ms-excel.numberformat:@">2012-04-26&#32;14:05<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >659161<td >HN12206394C<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-09&#32;11:15<td  style="vnd.ms-excel.numberformat:@">2012-10-09&#32;11:15<td  style="vnd.ms-excel.numberformat:@">2012-10-09&#32;11:15<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >663466<td >HN12206314E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">10.99<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">CONJUNCTIVAL&#32;OP&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-04&#32;15:06<td  style="vnd.ms-excel.numberformat:@">2012-10-04&#32;15:06<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >664628<td >HN122072657<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-15&#32;09:46<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >665017<td >HN122049248<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-07&#32;16:28<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >666103<td >HN12200442D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-17&#32;15:38<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >667848<td >HN12201414D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-23&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >714892<td >HN122064166<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-09&#32;16:22<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >714892<td >HN122072258<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.79<td  style="vnd.ms-excel.numberformat:@">10.91<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td  style="vnd.ms-excel.numberformat:@">SUBCONJUNCTIVAL&#32;INJECT<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-13&#32;15:17<td  style="vnd.ms-excel.numberformat:@">2012-11-13&#32;15:17<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >716213<td >HN122060349<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.73<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-20&#32;14:12<td  style="vnd.ms-excel.numberformat:@">2012-09-20&#32;14:12<td  style="vnd.ms-excel.numberformat:@">2012-09-20&#32;14:12<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >724517<td >HN122017036<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-06&#32;15:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >731904<td >HN12200683D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.69<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">SCLER&#32;FISTULIZING&#32;OP&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-31&#32;11:06<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >745181<td >HN122002616<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.69<td  style="vnd.ms-excel.numberformat:@">12.79<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">SCLER&#32;FISTULIZING&#32;OP&#32;NEC<td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-11&#32;10:50<td  style="vnd.ms-excel.numberformat:@">2012-01-11&#32;10:50<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >757492<td >HN122021076<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-17&#32;12:06<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >757492<td >HN122024466<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.79<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-02&#32;09:26<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >757492<td >HN12202716E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.79<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-11&#32;14:12<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >809241<td >HN12201293A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-21&#32;12:36<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >819431<td >HN122017117<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-06&#32;14:40<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >819431<td >HN122037258<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-06-19&#32;15:40<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >830751<td >HN12204721B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-31&#32;11:40<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >834619<td >HN12200875F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-06&#32;17:15<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >837257<td >HN122038009<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-06-21&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >840993<td >HN122045757<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-24&#32;15:13<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >844563<td >HN12207571B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-27&#32;10:42<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >858361<td >HN12208128C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-12-20&#32;10:39<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >892475<td >HN12202116G<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.73<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td ><td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >897652<td >HN122067556<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-25&#32;14:13<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >912849<td >HN12202837D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.79<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-16&#32;12:06<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >912849<td >HN122031918<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.79<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-30&#32;10:35<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >972964<td >HN122040666<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-03&#32;15:28<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1071449<td >HN122029778<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-22&#32;11:48<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1098488<td >HN12201878F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-22&#32;15:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1115545<td >HN12206126F<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-25&#32;15:17<td  style="vnd.ms-excel.numberformat:@">2012-09-25&#32;15:17<td  style="vnd.ms-excel.numberformat:@">2012-09-25&#32;15:17<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1115545<td >HN122074056<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-20&#32;14:09<td  style="vnd.ms-excel.numberformat:@">2012-11-20&#32;14:09<td  style="vnd.ms-excel.numberformat:@">2012-11-20&#32;14:09<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1122007<td >HN122046338<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-26&#32;16:14<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1128064<td >HN12205792G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-11&#32;16:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1140623<td >HN122018237<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-15&#32;14:44<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1140623<td >HN122055337<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-30&#32;15:18<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1170350<td >HN122003256<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-12&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1263158<td >HN12208234D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-12-27&#32;15:01<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1267092<td >HN12200317G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-12&#32;16:55<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1328771<td >HN122072339<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-14&#32;10:37<td  style="vnd.ms-excel.numberformat:@">2012-11-14&#32;10:37<td  style="vnd.ms-excel.numberformat:@">2012-11-14&#32;10:37<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1346510<td >HN122009319<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">13.9<td  style="vnd.ms-excel.numberformat:@">12.79<td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">OTHER&#32;OPERATIONS&#32;ON&#32;LENS<td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-08&#32;10:10<td  style="vnd.ms-excel.numberformat:@">2012-02-08&#32;10:10<td  style="vnd.ms-excel.numberformat:@">2012-02-08&#32;10:10<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1347108<td >HN12201354G<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-22&#32;11:10<td  style="vnd.ms-excel.numberformat:@">2012-02-22&#32;11:10<td  style="vnd.ms-excel.numberformat:@">2012-02-22&#32;11:10<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1347108<td >HN12202450F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-02&#32;12:05<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1347108<td >HN122059898<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-19&#32;11:45<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1488652<td >HN12206392G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-09&#32;09:46<td  style="vnd.ms-excel.numberformat:@">2012-10-09&#32;09:46<td  style="vnd.ms-excel.numberformat:@">2012-10-09&#32;09:46<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1513859<td >HN12202506E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-03&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1639400<td >HN12201931F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-29&#32;15:09<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1653457<td >HN12204596A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-25&#32;09:21<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1792205<td >HN122066266<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-18&#32;10:27<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1800636<td >HN122009769<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-09&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2012-02-09&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2012-02-09&#32;00:00<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1800636<td >HN122028798<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-17&#32;15:06<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1806316<td >HN12200689C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-31&#32;11:27<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1812676<td >HN12200232D<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-10&#32;14:57<td  style="vnd.ms-excel.numberformat:@">2012-01-10&#32;14:57<td  style="vnd.ms-excel.numberformat:@">2012-01-10&#32;14:57<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1814674<td >HN12205095G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-14&#32;15:49<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1818269<td >HN12200116F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-05&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1828179<td >HN12205517G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-30&#32;16:36<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1831312<td >HN12202885D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-17&#32;14:19<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1841952<td >HN122005836<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">10.91<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">SUBCONJUNCTIVAL&#32;INJECT<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-26&#32;14:58<td  style="vnd.ms-excel.numberformat:@">2012-01-26&#32;14:58<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1860765<td >HN122064689<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-11&#32;14:30<td  style="vnd.ms-excel.numberformat:@">2012-10-11&#32;14:30<td  style="vnd.ms-excel.numberformat:@">2012-10-11&#32;14:30<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1864367<td >HN122056147<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-04&#32;11:05<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1866176<td >HN122020819<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-17&#32;09:43<td  style="vnd.ms-excel.numberformat:@">2012-04-17&#32;09:43<td  style="vnd.ms-excel.numberformat:@">2012-04-17&#32;09:43<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1866176<td >HN122033406<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-06-05&#32;09:17<td  style="vnd.ms-excel.numberformat:@">2012-06-05&#32;09:17<td  style="vnd.ms-excel.numberformat:@">2012-06-05&#32;09:17<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1866620<td >HN12200877B<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-07&#32;10:32<td  style="vnd.ms-excel.numberformat:@">2012-02-07&#32;10:32<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1867399<td >HN12202870F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-17&#32;09:50<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1887515<td >HN12200696F<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-31&#32;16:31<td  style="vnd.ms-excel.numberformat:@">2012-01-31&#32;16:31<td  style="vnd.ms-excel.numberformat:@">2012-01-31&#32;16:31<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1887515<td >HN12204766B<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-01&#32;10:54<td  style="vnd.ms-excel.numberformat:@">2012-08-01&#32;10:54<td  style="vnd.ms-excel.numberformat:@">2012-08-01&#32;10:54<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1899387<td >HN12202262G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-24&#32;11:09<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1920334<td >HN12206120G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-25&#32;11:37<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1950477<td >HN12200013E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-03&#32;12:48<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1950477<td >HN12202507C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-03&#32;15:20<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1950477<td >HN12205181C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-16&#32;14:14<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1950477<td >HN12206753A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">10.31<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">EXCISE&#32;CONJUNCTIV&#32;LESION<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-25&#32;11:30<td  style="vnd.ms-excel.numberformat:@">2012-10-25&#32;11:30<td  style="vnd.ms-excel.numberformat:@">2012-10-25&#32;11:30<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1956611<td >HN12201915D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-27&#32;17:08<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2004528<td >HN122019306<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-29&#32;15:34<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2010670<td >HN12206628D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-18&#32;11:15<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2022719<td >HN12204386A<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.69<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">SCLER&#32;FISTULIZING&#32;OP&#32;NEC<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-17&#32;10:50<td  style="vnd.ms-excel.numberformat:@">2012-07-17&#32;10:50<td  style="vnd.ms-excel.numberformat:@">2012-07-17&#32;10:50<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2024616<td >HN12205440E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-28&#32;12:06<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2031739<td >HN12203178B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.33<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">POST&#32;SYNECHIAE&#32;LYSIS<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td  style="vnd.ms-excel.numberformat:@">2012-05-30&#32;09:27<td  style="vnd.ms-excel.numberformat:@">2012-05-30&#32;09:27<td  style="vnd.ms-excel.numberformat:@">2012-05-30&#32;09:27<td  style="vnd.ms-excel.numberformat:@">2012-05-30&#32;09:27<td >
+<tr bgcolor=#DDFFFF>
+<td >2031739<td >HN12205505C<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-30&#32;09:42<td  style="vnd.ms-excel.numberformat:@">2012-08-30&#32;09:42<td  style="vnd.ms-excel.numberformat:@">2012-08-30&#32;09:42<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2034991<td >HN122018229<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-15&#32;15:48<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2056725<td >HN122066436<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-18&#32;14:02<td  style="vnd.ms-excel.numberformat:@">2012-10-18&#32;14:02<td  style="vnd.ms-excel.numberformat:@">2012-10-18&#32;14:02<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2057870<td >HN12206750G<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-25&#32;10:21<td  style="vnd.ms-excel.numberformat:@">2012-10-25&#32;10:21<td  style="vnd.ms-excel.numberformat:@">2012-10-25&#32;10:21<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2059370<td >HN12202800E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-15&#32;16:36<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2059595<td >HN122007766<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-02&#32;14:45<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2078705<td >HN12201865D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-21&#32;09:15<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2150547<td >HN12205185F<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-16&#32;15:13<td  style="vnd.ms-excel.numberformat:@">2012-08-16&#32;15:13<td  style="vnd.ms-excel.numberformat:@">2012-08-16&#32;15:13<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2150547<td >HN12205365D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-23&#32;16:03<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2150547<td >HN12206307B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">12.21<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">DX&#32;ASPIRAT-ANT&#32;CHAMBER<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-04&#32;11:37<td  style="vnd.ms-excel.numberformat:@">2012-10-04&#32;11:37<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2166156<td >HN12201356C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-22&#32;10:00<td  style="vnd.ms-excel.numberformat:@">2012-02-22&#32;10:00<td  style="vnd.ms-excel.numberformat:@">2012-02-22&#32;10:00<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2166156<td >HN12206725F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-24&#32;10:38<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2322042<td >HN12206296C<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-04&#32;09:49<td  style="vnd.ms-excel.numberformat:@">2012-10-04&#32;09:49<td  style="vnd.ms-excel.numberformat:@">2012-10-04&#32;09:49<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2323359<td >HN12201802F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-13&#32;15:39<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2331205<td >HN12200102F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-05&#32;15:15<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2360938<td >HN122079848<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-12-13&#32;13:50<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2362928<td >HN12206932A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-01&#32;14:09<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2363814<td >HN12204800F<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-02&#32;09:49<td  style="vnd.ms-excel.numberformat:@">2012-08-02&#32;09:49<td  style="vnd.ms-excel.numberformat:@">2012-08-02&#32;09:49<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2366171<td >HN122016188<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-01&#32;16:05<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2390141<td >HN122053636<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-23&#32;14:16<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2415425<td >HN12200021F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.79<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-03&#32;15:40<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2427171<td >HN122006816<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.69<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">SCLER&#32;FISTULIZING&#32;OP&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-31&#32;10:40<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2427688<td >HN122015297<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-28&#32;15:32<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2448557<td >HN122060268<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-20&#32;15:17<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2466530<td >HN12200706G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-31&#32;14:09<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2466530<td >HN12205182A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-16&#32;14:43<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2477756<td >HN12202698C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-10&#32;15:26<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2650121<td >HN12202886B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-17&#32;16:18<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2665207<td >HN122029646<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">13.59<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">ECCE&#32;+&#32;IOL<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td  style="vnd.ms-excel.numberformat:@">2012-05-22&#32;10:51<td  style="vnd.ms-excel.numberformat:@">2012-05-22&#32;10:51<td  style="vnd.ms-excel.numberformat:@">2012-05-24&#32;12:00<td  style="vnd.ms-excel.numberformat:@">2012-05-24&#32;12:00<td >
+<tr bgcolor=#DDFFFF>
+<td >2695969<td >HN122019756<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.67<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">Tampon.&#32;dev-postop&#32;fist<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-03&#32;16:30<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2838034<td >HN12202976A<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-22&#32;09:40<td  style="vnd.ms-excel.numberformat:@">2012-05-22&#32;09:40<td  style="vnd.ms-excel.numberformat:@">2012-05-22&#32;09:40<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2850430<td >HN12201766F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-08&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2850430<td >HN12204822G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-02&#32;16:46<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2854034<td >HN122007847<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.69<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">SCLER&#32;FISTULIZING&#32;OP&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-02&#32;15:30<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2861960<td >HN12201858A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-20&#32;14:23<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2861960<td >HN122020037<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.79<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-10&#32;17:04<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2948447<td >HN12207455D<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">12.97<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >IRIS&#32;OPERATION&#32;NEC<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td  style="vnd.ms-excel.numberformat:@">2012-11-22&#32;09:15<td  style="vnd.ms-excel.numberformat:@">2012-11-22&#32;09:15<td  style="vnd.ms-excel.numberformat:@">2012-11-22&#32;09:15<td  style="vnd.ms-excel.numberformat:@">2012-11-22&#32;09:15<td >
+<tr bgcolor=#DDFFFF>
+<td >2968308<td >HN12200773C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-02&#32;15:50<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3049854<td >HN12207652B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-29&#32;14:16<td  style="vnd.ms-excel.numberformat:@">2012-11-29&#32;14:16<td  style="vnd.ms-excel.numberformat:@">2012-11-29&#32;14:16<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3052763<td >HN122018598<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-21&#32;11:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3052763<td >HN12206113D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-25&#32;11:14<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3082069<td >HN122016056<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-01&#32;15:31<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3084351<td >HN12206426E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-10&#32;10:22<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3094319<td >HN122076059<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-28&#32;09:35<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3115084<td >HN122020029<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-10&#32;15:29<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3115084<td >HN122050947<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-14&#32;10:18<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3257779<td >HN12201864F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-21&#32;11:35<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3404850<td >HN12201381D<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-23&#32;10:41<td  style="vnd.ms-excel.numberformat:@">2012-02-23&#32;10:41<td  style="vnd.ms-excel.numberformat:@">2012-02-23&#32;10:41<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3421651<td >HN12200237E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-10&#32;16:33<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3461988<td >HN122053539<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-23&#32;11:05<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3518160<td >HN12202144B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-19&#32;09:25<td  style="vnd.ms-excel.numberformat:@">2012-04-19&#32;09:25<td  style="vnd.ms-excel.numberformat:@">2012-04-19&#32;09:25<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3525981<td >HN12204998C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-09&#32;15:53<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3538969<td >HN122075869<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-27&#32;17:12<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3539623<td >HN12205799D<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-12&#32;09:46<td  style="vnd.ms-excel.numberformat:@">2012-09-12&#32;09:46<td  style="vnd.ms-excel.numberformat:@">2012-09-12&#32;09:46<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3560229<td >HN122020827<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-17&#32;11:45<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3570165<td >HN12205906G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">10.91<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">SUBCONJUNCTIVAL&#32;INJECT<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-17&#32;09:38<td  style="vnd.ms-excel.numberformat:@">2012-10-17&#32;09:38<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3713673<td >HN12203146D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-29&#32;11:02<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3791573<td >HN12202165E<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-19&#32;14:12<td  style="vnd.ms-excel.numberformat:@">2012-04-19&#32;14:12<td  style="vnd.ms-excel.numberformat:@">2012-04-19&#32;14:12<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3820085<td >HN12202280E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-24&#32;14:45<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3866479<td >HN122018547<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-20&#32;16:43<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3866496<td >HN12205954G<td >HKE<td  style="vnd.ms-excel.numberformat:@">11.73<td  style="vnd.ms-excel.numberformat:@">14.74<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">13.59<td  style="vnd.ms-excel.numberformat:@">13.71<td >KERATOPROSTHESIS<td  style="vnd.ms-excel.numberformat:@">MECH&#32;VITRECTOMY&#32;NEC<td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td  style="vnd.ms-excel.numberformat:@">ECCE&#32;+&#32;IOL<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td  style="vnd.ms-excel.numberformat:@">2012-09-18&#32;09:30<td  style="vnd.ms-excel.numberformat:@">2012-09-18&#32;09:30<td  style="vnd.ms-excel.numberformat:@">2012-09-18&#32;09:30<td  style="vnd.ms-excel.numberformat:@">2012-09-18&#32;09:30<td  style="vnd.ms-excel.numberformat:@">2012-09-18&#32;09:30
+<tr bgcolor=#DDFFFF>
+<td >3891788<td >HN12206409E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-09&#32;15:25<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3899954<td >HN12207740E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.33<td  style="vnd.ms-excel.numberformat:@">12.32<td  style="vnd.ms-excel.numberformat:@">10.91<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">POST&#32;SYNECHIAE&#32;LYSIS<td  style="vnd.ms-excel.numberformat:@">ANT&#32;SYNECHIA&#32;LYSIS&#32;NEC<td  style="vnd.ms-excel.numberformat:@">SUBCONJUNCTIVAL&#32;INJECT<td  style="vnd.ms-excel.numberformat:@">2012-12-05&#32;09:51<td  style="vnd.ms-excel.numberformat:@">2012-12-05&#32;09:51<td  style="vnd.ms-excel.numberformat:@">2012-12-05&#32;09:51<td  style="vnd.ms-excel.numberformat:@">2012-12-05&#32;09:51<td  style="vnd.ms-excel.numberformat:@">2012-12-05&#32;09:51
+<tr bgcolor=#DDFFFF>
+<td >4031059<td >HN12202151E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-19&#32;11:35<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4031059<td >HN12204466C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-19&#32;11:06<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4031059<td >HN12205436G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">54.91<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">PERCUT&#32;ABDOMIN&#32;DRAINAGE<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-28&#32;09:43<td  style="vnd.ms-excel.numberformat:@">2012-08-28&#32;09:43<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4137382<td >HN122059677<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-18&#32;15:35<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4199561<td >HN12202451D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-02&#32;12:33<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4207587<td >HN12201910C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-27&#32;16:38<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4207587<td >HN122024938<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-03&#32;16:03<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4238171<td >HN12204291A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-12&#32;10:38<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4273370<td >HN12201999E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">12.21<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">DX&#32;ASPIRAT-ANT&#32;CHAMBER<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-10&#32;14:09<td  style="vnd.ms-excel.numberformat:@">2012-04-10&#32;14:09<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4346001<td >HN12201607D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-01&#32;15:20<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4355271<td >HN12206940B<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-01&#32;15:20<td  style="vnd.ms-excel.numberformat:@">2012-11-01&#32;15:20<td  style="vnd.ms-excel.numberformat:@">2012-11-01&#32;15:20<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4374162<td >HN122036278<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-06-14&#32;15:20<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4374162<td >HN12206564D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-16&#32;14:39<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4378761<td >HN12205778A<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-11&#32;10:20<td  style="vnd.ms-excel.numberformat:@">2012-09-11&#32;10:20<td  style="vnd.ms-excel.numberformat:@">2012-09-11&#32;10:20<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4479740<td >HN12207048F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-06&#32;14:43<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4494164<td >HN122034348<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-06-07&#32;14:10<td  style="vnd.ms-excel.numberformat:@">2012-06-07&#32;14:10<td  style="vnd.ms-excel.numberformat:@">2012-06-07&#32;14:10<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4538149<td >HN122037967<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-06-21&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4559172<td >HN12204576G<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-24&#32;14:18<td  style="vnd.ms-excel.numberformat:@">2012-07-24&#32;14:18<td  style="vnd.ms-excel.numberformat:@">2012-07-24&#32;14:18<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4571053<td >HN122064557<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">14.73<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">ANTERIOR&#32;MECHAN&#32;VITRECT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-11&#32;14:14<td  style="vnd.ms-excel.numberformat:@">2012-10-11&#32;14:14<td  style="vnd.ms-excel.numberformat:@">2012-10-11&#32;14:14<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4731863<td >HN12200790C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-02&#32;16:10<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4731863<td >HN122017168<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-06&#32;15:30<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4731863<td >HN12202119A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td ><td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4731863<td >HN12207972F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-12-13&#32;11:53<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4784905<td >HN122063917<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-09&#32;11:58<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4857273<td >HN12200899C<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-07&#32;14:08<td  style="vnd.ms-excel.numberformat:@">2012-02-07&#32;14:08<td  style="vnd.ms-excel.numberformat:@">2012-02-07&#32;14:08<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4857273<td >HN12205629G<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-04&#32;16:02<td  style="vnd.ms-excel.numberformat:@">2012-09-04&#32;16:02<td  style="vnd.ms-excel.numberformat:@">2012-09-04&#32;16:02<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4861066<td >HN122032159<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">10.91<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">SUBCONJUNCTIVAL&#32;INJECT<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-31&#32;11:00<td  style="vnd.ms-excel.numberformat:@">2012-05-31&#32;11:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4933655<td >HN122073807<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-20&#32;11:29<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5030893<td >HN122024768<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-03&#32;11:45<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5038249<td >HN122004279<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-17&#32;09:26<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5282364<td >HN122019136<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-27&#32;15:24<td  style="vnd.ms-excel.numberformat:@">2012-03-27&#32;15:24<td  style="vnd.ms-excel.numberformat:@">2012-03-27&#32;15:24<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5282364<td >HN122047288<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-31&#32;11:01<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5333653<td >HN122081478<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-12-20&#32;15:35<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5377731<td >HN122070298<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-06&#32;10:39<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5441730<td >HN12207384A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-20&#32;09:47<td  style="vnd.ms-excel.numberformat:@">2012-11-20&#32;09:47<td  style="vnd.ms-excel.numberformat:@">2012-11-20&#32;09:47<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5447540<td >HN122037959<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-06-21&#32;14:10<td  style="vnd.ms-excel.numberformat:@">2012-06-21&#32;14:10<td  style="vnd.ms-excel.numberformat:@">2012-06-21&#32;14:10<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5447540<td >HN122043886<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-17&#32;11:23<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5481547<td >HN122053598<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-23&#32;14:08<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5483512<td >HN12200964G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-09&#32;10:12<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5483512<td >HN12205355G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-23&#32;15:15<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5483512<td >HN12205681E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.79<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-06&#32;11:14<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5546074<td >HN122082326<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-12-27&#32;14:46<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5549410<td >HN12207477E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-22&#32;15:45<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5721221<td >HN12207204G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-13&#32;11:29<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5730624<td >HN122058158<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-12&#32;12:26<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5738292<td >HN12200319C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.69<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">SCLER&#32;FISTULIZING&#32;OP&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-12&#32;15:40<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5760059<td >HN12200425D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-17&#32;11:56<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5841858<td >HN12203701B<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-06-19&#32;09:40<td  style="vnd.ms-excel.numberformat:@">2012-06-19&#32;09:40<td  style="vnd.ms-excel.numberformat:@">2012-06-19&#32;09:40<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5888543<td >HN122068447<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-30&#32;11:40<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5890823<td >HN122032337<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-31&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5939975<td >HN12205649A<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-05&#32;12:15<td  style="vnd.ms-excel.numberformat:@">2012-09-05&#32;12:15<td  style="vnd.ms-excel.numberformat:@">2012-09-05&#32;12:15<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5946735<td >HN12200214F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-10&#32;10:17<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5949997<td >HN12201418G<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-23&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2012-02-23&#32;15:00<td  style="vnd.ms-excel.numberformat:@">2012-02-23&#32;00:00<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5952008<td >HN12202166C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-19&#32;12:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5981861<td >HN12203213D<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-31&#32;09:15<td  style="vnd.ms-excel.numberformat:@">2012-05-31&#32;09:15<td  style="vnd.ms-excel.numberformat:@">2012-05-31&#32;09:15<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5981861<td >HN12204458B<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-19&#32;09:55<td  style="vnd.ms-excel.numberformat:@">2012-07-19&#32;09:55<td  style="vnd.ms-excel.numberformat:@">2012-07-19&#32;09:55<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5994547<td >HN122019357<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-29&#32;14:50<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6097717<td >HN12206765E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-25&#32;16:28<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6131884<td >HN12204483C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-19&#32;14:18<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6248756<td >HN12206193B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-27&#32;10:34<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6253042<td >HN12201171D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-16&#32;11:56<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6270103<td >HN12202287B<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-24&#32;15:15<td  style="vnd.ms-excel.numberformat:@">2012-04-24&#32;15:15<td  style="vnd.ms-excel.numberformat:@">2012-04-24&#32;15:15<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6345641<td >HN12201825E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-15&#32;16:20<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6373970<td >HN122009238<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.79<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-08&#32;09:14<td  style="vnd.ms-excel.numberformat:@">2012-02-08&#32;09:14<td  style="vnd.ms-excel.numberformat:@">2012-02-08&#32;09:14<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6373970<td >HN122081346<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-12-20&#32;10:52<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6440311<td >HN12201195A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-16&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6440311<td >HN122046346<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-26&#32;14:15<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6440311<td >HN122060276<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-20&#32;16:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6440311<td >HN12207472D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-22&#32;16:39<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6466909<td >HN12200306A<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-12&#32;16:15<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6522568<td >HN122016919<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-06&#32;10:00<td  style="vnd.ms-excel.numberformat:@">2012-03-06&#32;10:00<td  style="vnd.ms-excel.numberformat:@">2012-03-06&#32;10:00<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6523390<td >HN122081486<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">10.91<td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">SUBCONJUNCTIVAL&#32;INJECT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-12-20&#32;14:10<td  style="vnd.ms-excel.numberformat:@">2012-12-20&#32;14:10<td  style="vnd.ms-excel.numberformat:@">2012-12-20&#32;14:10<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6582783<td >HN12206121E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-25&#32;11:08<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6582783<td >HN122065596<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-16&#32;10:59<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6582783<td >HN12206841D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">12.92<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td  style="vnd.ms-excel.numberformat:@">ANTERIOR&#32;CHAMBER&#32;INJECT<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-30&#32;10:01<td  style="vnd.ms-excel.numberformat:@">2012-10-30&#32;10:01<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6582783<td >HN12208288C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">12.33<td  style="vnd.ms-excel.numberformat:@">12.87<td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">POST&#32;SYNECHIAE&#32;LYSIS<td  style="vnd.ms-excel.numberformat:@">GRAFT&#32;REINFORCE&#32;SCLERA<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-12-31&#32;10:25<td  style="vnd.ms-excel.numberformat:@">2012-12-31&#32;10:25<td  style="vnd.ms-excel.numberformat:@">2012-12-31&#32;10:25<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6630031<td >HN122022846<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-24&#32;16:35<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6630031<td >HN12206751E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-25&#32;09:51<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6677652<td >HN122044599<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-19&#32;11:33<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6827540<td >HN12207268C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-15&#32;10:16<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6916261<td >HN12206031F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-20&#32;15:42<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6916261<td >HN12207471F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.79<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-22&#32;14:36<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6930761<td >HN12204487F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-19&#32;15:19<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6937977<td >HN12201616C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-01&#32;14:45<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6938331<td >HN12200059C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td ><td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7066989<td >HN12206926G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-01&#32;16:02<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7070856<td >HN122053156<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-22&#32;10:59<td  style="vnd.ms-excel.numberformat:@">2012-08-22&#32;10:59<td  style="vnd.ms-excel.numberformat:@">2012-08-22&#32;10:59<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7085426<td >HN12203047F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-24&#32;15:27<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7117563<td >HN12201503E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-28&#32;09:07<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7199996<td >HN12207201B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-13&#32;09:42<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7219194<td >HN12205453G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-28&#32;15:04<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7219194<td >HN12207117B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-08&#32;16:33<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7222385<td >HN12200111E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-05&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7222385<td >HN12202361E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-26&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7231296<td >HN12200109C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.79<td  style="vnd.ms-excel.numberformat:@">10.44<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td  style="vnd.ms-excel.numberformat:@">CONJUNC&#32;FREE&#32;GRAFT&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-05&#32;14:05<td  style="vnd.ms-excel.numberformat:@">2012-01-05&#32;14:05<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7290097<td >HN122020916<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">12.79<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">GLAUCOMA&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-17&#32;11:21<td  style="vnd.ms-excel.numberformat:@">2012-04-17&#32;11:21<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7317751<td >HN12206918F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-01&#32;10:11<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7322855<td >HN12200223E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-10&#32;10:43<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7417950<td >HN12201297D<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-21&#32;10:11<td  style="vnd.ms-excel.numberformat:@">2012-02-21&#32;10:11<td  style="vnd.ms-excel.numberformat:@">2012-02-21&#32;10:11<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7417950<td >HN122077586<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-12-04&#32;15:56<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7463169<td >HN122007057<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-31&#32;15:13<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7531944<td >HN122005909<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-26&#32;14:10<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7531944<td >HN12201976F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-03&#32;14:56<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7619421<td >HN12200030E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-03&#32;16:30<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7619421<td >HN12200524B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td ><td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7735887<td >HN12200015A<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-03&#32;14:10<td  style="vnd.ms-excel.numberformat:@">2012-01-03&#32;14:10<td  style="vnd.ms-excel.numberformat:@">2012-01-03&#32;14:10<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7843476<td >HN12206546F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">12.91<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">THERAPEUT&#32;EVAC&#32;ANT&#32;CHAMB<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-16&#32;09:48<td  style="vnd.ms-excel.numberformat:@">2012-10-16&#32;09:48<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7857062<td >HN122005208<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-19&#32;14:20<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7857062<td >HN12203987B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-06-28&#32;15:02<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7963012<td >HN12201770D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-03-08&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8061494<td >HN12201809C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td ><td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8061494<td >HN122026418<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-09&#32;11:15<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8165149<td >HN12202486G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-03&#32;11:24<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8205065<td >HN12200510B<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-19&#32;15:35<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8228365<td >HN12206104E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-25&#32;09:23<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8388519<td >HN122007588<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-02&#32;09:38<td  style="vnd.ms-excel.numberformat:@">2012-02-02&#32;09:38<td  style="vnd.ms-excel.numberformat:@">2012-02-02&#32;09:38<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8412275<td >HN12202013F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">97.38<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">REMOVE&#32;HEAD/NECK&#32;SUTURES<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-11&#32;11:02<td  style="vnd.ms-excel.numberformat:@">2012-04-11&#32;11:02<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8412275<td >HN12203010G<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-23&#32;11:36<td  style="vnd.ms-excel.numberformat:@">2012-05-23&#32;11:36<td  style="vnd.ms-excel.numberformat:@">2012-05-23&#32;11:36<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8449006<td >HN12200957D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-02-09&#32;10:58<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8451772<td >HN122051676<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-16&#32;11:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8451772<td >HN12207039G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-06&#32;15:51<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8491434<td >HN122003108<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-12&#32;14:15<td  style="vnd.ms-excel.numberformat:@">2012-01-12&#32;14:15<td  style="vnd.ms-excel.numberformat:@">2012-01-12&#32;14:15<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8527333<td >HN12203883C<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-06-26&#32;09:14<td  style="vnd.ms-excel.numberformat:@">2012-06-26&#32;09:14<td  style="vnd.ms-excel.numberformat:@">2012-06-26&#32;09:14<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8527333<td >HN12206128B<td >HKE<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-25&#32;14:09<td  style="vnd.ms-excel.numberformat:@">2012-09-25&#32;14:09<td  style="vnd.ms-excel.numberformat:@">2012-09-25&#32;14:09<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8536277<td >HN12206594F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-17&#32;10:39<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8626273<td >HN122053628<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-23&#32;14:42<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8629248<td >HN12204807C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-02&#32;09:36<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8868329<td >HN12204240G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-10&#32;15:46<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8868329<td >HN122058468<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-13&#32;16:02<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8868329<td >HN12207052D<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-06&#32;16:19<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8951165<td >HN12200269C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.69<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">SCLER&#32;FISTULIZING&#32;OP&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-01-11&#32;11:30<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9066222<td >HN12202097G<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-04-17&#32;16:02<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9089658<td >HN12204926F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-08-07&#32;15:15<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9256306<td >HN12206188F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-27&#32;11:08<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9345972<td >HN12202832C<td >HKE<td  style="vnd.ms-excel.numberformat:@">95.04<td  style="vnd.ms-excel.numberformat:@">12.52<td  style="vnd.ms-excel.numberformat:@">12.52<td ><td ><td  style="vnd.ms-excel.numberformat:@">ANESTHETIZED&#32;EYE&#32;EXAM<td  style="vnd.ms-excel.numberformat:@">GONIOTOMY<td  style="vnd.ms-excel.numberformat:@">GONIOTOMY<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-05-16&#32;09:22<td  style="vnd.ms-excel.numberformat:@">2012-05-16&#32;09:22<td  style="vnd.ms-excel.numberformat:@">2012-05-16&#32;09:22<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9567929<td >HN122064247<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-10&#32;09:35<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9567929<td >HN12207786C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">10.91<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">SUBCONJUNCTIVAL&#32;INJECT<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-12-05&#32;09:25<td  style="vnd.ms-excel.numberformat:@">2012-12-05&#32;09:25<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9842778<td >HN12205990C<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-19&#32;09:40<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9842778<td >HN122076776<td >HKE<td  style="vnd.ms-excel.numberformat:@">95.04<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">95.13<td ><td ><td  style="vnd.ms-excel.numberformat:@">ANESTHETIZED&#32;EYE&#32;EXAM<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">ULTRASOUND&#32;STUDY&#32;OF&#32;EYE<td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-11-30&#32;09:50<td  style="vnd.ms-excel.numberformat:@">2012-11-30&#32;09:50<td  style="vnd.ms-excel.numberformat:@">2012-11-30&#32;09:50<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10045453<td >HN12203582F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.53<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GONIOTOMY&#32;W&#32;GONIOPUNCTUR<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-06-13&#32;09:30<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10045453<td >HN122041697<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.52<td  style="vnd.ms-excel.numberformat:@">12.52<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">GONIOTOMY<td  style="vnd.ms-excel.numberformat:@">GONIOTOMY<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-07-06&#32;09:50<td  style="vnd.ms-excel.numberformat:@">2012-07-06&#32;09:50<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10045453<td >HN12205647E<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">97.38<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">REMOVE&#32;HEAD/NECK&#32;SUTURES<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-09-05&#32;10:14<td  style="vnd.ms-excel.numberformat:@">2012-09-05&#32;10:14<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10045453<td >HN12206272F<td >HKE<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2012-10-03&#32;09:10<td ><td ><td ><td >
+</table><BR>
+<font face='Verdana' size=2>No. of Records :301
+
+<p><table><b><font style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#FF0000; font-size: 8pt;'>::&nbsp;Disclaimer</font></b>
+<ul style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#FF0000; font-size: 8pt;'>
+<li>It is a good practice to seek endorsement from relevant parties (e.g. Head of Department, COC) in the HA before disclosure and/or publication of research and study results, particularly when the data are not from your own department.</li>
+<li>The researcher of any study project, clinical audit or publication that employs clinical information taken from CDARS should ensure that the data accuracy and completeness fit the definition of the research protocol.</li>
+</ul></table></p>
+

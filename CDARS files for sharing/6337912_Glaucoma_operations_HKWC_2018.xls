@@ -1,0 +1,197 @@
+<meta http-equiv='Content-Type' content='application/vnd.ms-excel' charset='utf-8'>
+<style>td {  font-family:Courier;    font-size:8pt;   align:left;     }
+UL { PADDING-RIGHT: 0px;  PADDING-LEFT: 0px;   PADDING-BOTTOM: 0px;    MARGIN: 4px 0px 4px 20px;    PADDING-TOP: 0px;}
+     </style>
+<div align=left><font face=Verdana size=2><b>Clinical Data Analysis & Reporting System</b><br><i>In-Patient Episodes Analysis</i><br><br><b><u>Glaucoma operations HKWC 2018</u></b></font>
+
+<table></table><div><font face= Verdana  size=2>Hospital Code in (<ul><li class="ListTable">DKC</li><li class="ListTable">FYK</li><li class="ListTable">GH</li><li class="ListTable">ML</li><li class="ListTable">NLH</li><li class="ListTable">QMH</li><li class="ListTable">TWH</li><li class="ListTable">TYH</li></ul>)&nbsp;<font color='red'>AND</font><br>Discharge Date between 01/01/2018 and 31/12/2018&nbsp;<font color='red'>AND</font><br>( &laquo; Procedure{<br>Any Procedure{<br>Procedure Code in (<ul><li class="ListTable">Start With 12.51 GONIOPUNCTURE WITHOUT GONIOTOMY</li><li class="ListTable">Start With 12.52 GONIOTOMY WITHOUT GONIOPUNCTURE</li><li class="ListTable">Start With 12.53 GONIOTOMY WITH GONIOPUNCTURE</li><li class="ListTable">Start With 12.54 TRABECULOTOMY AB EXTERNO</li><li class="ListTable">Start With 12.59 OTHER FACILITATION OF INTRAOCULAR CIRCULATION</li><li class="ListTable">Start With 12.6 SCLERAL FISTULIZATION</li><li class="ListTable">Start With 12.71 CYCLODIATHERMY</li><li class="ListTable">Start With 12.72 CYCLOCRYOTHERAPY</li><li class="ListTable">Start With 12.73 CYCLOPHOTOCOAGULATION</li><li class="ListTable">Start With 12.79 OTHER GLAUCOMA PROCEDURES</li><li class="ListTable">Start With 12.69 OTHER SCLERAL FISTULIZING PROCEDURE</li><li class="ListTable">Start With 12.66 POSTOPERATIVE REVISION OF SCLERAL FISTULIZATION PROCEDURE</li><li class="ListTable">Start With 12.64 TRABECULECTOMY AB EXTERNO</li><li class="ListTable">Start With 12.65 OTHER SCLERAL FISTULIZATION WITH IRIDECTOMY</li><li class="ListTable">Equal To 13.19 (1) Combined cataract extraction and trabeculectomy</li><li class="ListTable">Start With 12.74 DIMINUTION OF CILIARY BODY, NOT OTHERWISE SPECIFIED</li></ul>)}} &raquo; )<br><br><br><br>As of 23/02/2022 15:50, data available was up to 22/02/2022. <br><br><i>Request ID: 6337912 ;&nbsp;&nbsp;Submitted by DR. HO WING LAU, QMH;&nbsp;&nbsp;Layout Option: Selected Code</font></i></div>
+<div><font face= Verdana  size=1><table></table></div>
+<table id=datatable bgcolor='#006699'borderColor=#000000 border=1 cellspacing=0>
+<tr valign=bottom bgcolor=#99CCFF>
+<td align=left width=230>Reference Key
+<td align=left width=230>HN Number
+<td align=left width=230>Institution (IPAS)
+<td align=left width=230>Procedure (rank 1)
+<td align=left width=230>Procedure (rank 2)
+<td align=left width=230>Procedure (rank 3)
+<td align=left width=230>Procedure (rank 4)
+<td align=left width=230>Procedure (rank 5)
+<td align=left width=230>Procedure Description (rank 1)
+<td align=left width=230>Procedure Description (rank 2)
+<td align=left width=230>Procedure Description (rank 3)
+<td align=left width=230>Procedure Description (rank 4)
+<td align=left width=230>Procedure Description (rank 5)
+<td align=left width=230>Procedure Date (rank 1) (yyyy-mm-dd HH:MM)
+<td align=left width=230>Procedure Date (rank 2) (yyyy-mm-dd HH:MM)
+<td align=left width=230>Procedure Date (rank 3) (yyyy-mm-dd HH:MM)
+<td align=left width=230>Procedure Date (rank 4) (yyyy-mm-dd HH:MM)
+<td align=left width=230>Procedure Date (rank 5) (yyyy-mm-dd HH:MM)
+<tr bgcolor=#DDFFFF>
+<td >139867<td >HN180299342<td >QMH<td  style="vnd.ms-excel.numberformat:@">33.23<td  style="vnd.ms-excel.numberformat:@">33.23<td  style="vnd.ms-excel.numberformat:@">33.23<td  style="vnd.ms-excel.numberformat:@">33.23<td  style="vnd.ms-excel.numberformat:@">33.23<td  style="vnd.ms-excel.numberformat:@">OTHER&#32;BRONCHOSCOPY<td  style="vnd.ms-excel.numberformat:@">OTHER&#32;BRONCHOSCOPY<td  style="vnd.ms-excel.numberformat:@">OTHER&#32;BRONCHOSCOPY<td  style="vnd.ms-excel.numberformat:@">OTHER&#32;BRONCHOSCOPY<td  style="vnd.ms-excel.numberformat:@">OTHER&#32;BRONCHOSCOPY<td  style="vnd.ms-excel.numberformat:@">2018-03-10&#32;16:32<td  style="vnd.ms-excel.numberformat:@">2018-03-07&#32;08:15<td  style="vnd.ms-excel.numberformat:@">2018-03-13&#32;09:46<td  style="vnd.ms-excel.numberformat:@">2018-03-17&#32;11:15<td  style="vnd.ms-excel.numberformat:@">2018-03-29&#32;15:45
+<tr bgcolor=#DDFFFF>
+<td >272628<td >HN18007973G<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">08.44<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">LID&#32;RECONS&#32;ENTROPION&#32;REP<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-06-14&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-06-14&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >858160<td >HN18014319B<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-24&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >862190<td >HN18013233F<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-03&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >881282<td >HN18011194K<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-08-20&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >886909<td >HN18011878C<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">99.99<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td  style="vnd.ms-excel.numberformat:@">NON-OP&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-09-03&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-09-03&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >886909<td >HN18014688D<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">99.99<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">NON-OP&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-31&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-10-31&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >892373<td >HN18011543A<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-08-27&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >903792<td >HN18008414E<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-06-25&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >912606<td >HN18011692F<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-08-30&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >923505<td >HN18001658A<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-02-05&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >923654<td >HN18000620I<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-01-15&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >923654<td >HN18013232H<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-03&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >928588<td >HN18002466E<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-02-22&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-02-22&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-02-22&#32;00:00<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >940767<td >HN18016969H<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-12-13&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1026724<td >HN18000983F<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-01-22&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1159304<td >HN18011871F<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">99.99<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td  style="vnd.ms-excel.numberformat:@">NON-OP&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-09-03&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-09-03&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1267712<td >HN18012072I<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-09-06&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1800279<td >HN18014307I<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">99.99<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td  style="vnd.ms-excel.numberformat:@">NON-OP&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-24&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-10-24&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1904812<td >HN18010149J<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-07-30&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >1904812<td >HN18012742A<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-09-20&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2147947<td >HN18011873B<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">99.99<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td  style="vnd.ms-excel.numberformat:@">NON-OP&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-09-03&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-09-03&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2147947<td >HN18014422I<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">99.99<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">NON-OP&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-25&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-10-25&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2147947<td >HN18016122K<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">99.99<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td  style="vnd.ms-excel.numberformat:@">NON-OP&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-11-28&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-11-28&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2166937<td >HN18016003H<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-11-26&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2341960<td >HN18006358J<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-05-14&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2390855<td >HN18005336C<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-04-23&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2390855<td >HN18006105F<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-05-09&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2458813<td >HN18003353B<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-03-12&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2639990<td >HN180256481<td >QMH<td  style="vnd.ms-excel.numberformat:@">12.72<td  style="vnd.ms-excel.numberformat:@">55.39<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOCRYOTHERAPY<td  style="vnd.ms-excel.numberformat:@">LOC&#32;DESTR&#32;RENAL&#32;LES&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-02-27&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-02-26&#32;15:04<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2743375<td >HN18014065G<td >GH<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-18&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-10-18&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-10-18&#32;00:00<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2752630<td >HN18010706D<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-08-09&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-08-09&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2816300<td >HN18004863G<td >GH<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.64<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-04-12&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-04-12&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-04-12&#32;00:00<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2830372<td >HN18005977I<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-05-07&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2844551<td >HN18014806B<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-11-01&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2846806<td >HN18013359F<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-04&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >2966899<td >HN18003699J<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-03-19&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3298705<td >HN18014310I<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-24&#32;09:05<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3502007<td >HN18009107I<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-07-09&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >3705039<td >HN18014421K<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-25&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4083102<td >HN18011868F<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-09-03&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4336296<td >HN18009109E<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-07-09&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4384662<td >HN18011872D<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-09-03&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4685302<td >HN180983367<td >QMH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-08-06&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >4933175<td >HN18016971J<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-12-13&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5010312<td >HN18006347D<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-05-14&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5033260<td >HN18000155J<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-01-04&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5146884<td >HN18002764H<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-02-28&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5204080<td >HN18014050I<td >GH<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-18&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-10-18&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-10-18&#32;00:00<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5424420<td >HN18017116A<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">99.99<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td  style="vnd.ms-excel.numberformat:@">NON-OP&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-12-17&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-12-17&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5472238<td >HN18006344J<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-05-14&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5472238<td >HN18007411E<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-06-04&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5535522<td >HN18013897K<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-15&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >5593338<td >HN18010145G<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-07-30&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6370504<td >HN18016118B<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">99.99<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td  style="vnd.ms-excel.numberformat:@">NON-OP&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-11-28&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-11-28&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6425896<td >HN18006209E<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-05-10&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6569953<td >HN18000299H<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-01-08&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-01-08&#32;13:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6569953<td >HN18002738I<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-02-28&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >6735482<td >HN18014960C<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-11-05&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7233013<td >HN18007765C<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-06-11&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7321142<td >HN18000980A<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-01-22&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7645912<td >HN18014042H<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-18&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7655685<td >HN18014059B<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-18&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >7776832<td >HN18005345B<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-04-23&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8070908<td >HN18013534C<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-08&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8392605<td >HN180523536<td >QMH<td  style="vnd.ms-excel.numberformat:@">95.04<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">ANESTHETIZED&#32;EYE&#32;EXAM<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-04-26&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-04-26&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8648864<td >HN18011877E<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">99.99<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td  style="vnd.ms-excel.numberformat:@">NON-OP&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-09-03&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-09-03&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8648864<td >HN18013399E<td >GH<td  style="vnd.ms-excel.numberformat:@">12.32<td  style="vnd.ms-excel.numberformat:@">12.66<td  style="vnd.ms-excel.numberformat:@">99.99<td ><td ><td  style="vnd.ms-excel.numberformat:@">ANT&#32;SYNECHIA&#32;LYSIS&#32;NEC<td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td  style="vnd.ms-excel.numberformat:@">NON-OP&#32;PROCEDURE&#32;NEC<td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-05&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-10-05&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-10-05&#32;00:00<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8693835<td >HN18011994A<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-09-05&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8693835<td >HN18017082C<td >GH<td  style="vnd.ms-excel.numberformat:@">12.99<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">ANTERIOR&#32;CHAMBER&#32;OP&#32;NEC<td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-12-17&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-12-17&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >8903065<td >HN18009545G<td >GH<td  style="vnd.ms-excel.numberformat:@">13.41<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">13.71<td ><td ><td  style="vnd.ms-excel.numberformat:@">CATARAC&#32;PHACOEMULS/ASPIR<td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td >INSERT&#32;LENS&#32;AT&#32;CATAR&#32;EXT<td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-07-18&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-07-18&#32;09:07<td  style="vnd.ms-excel.numberformat:@">2018-07-18&#32;00:00<td ><td >
+<tr bgcolor=#DDFFFF>
+<td >9870244<td >HN18017119F<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td  style="vnd.ms-excel.numberformat:@">99.99<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td  style="vnd.ms-excel.numberformat:@">NON-OP&#32;PROCEDURE&#32;NEC<td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-12-17&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-12-17&#32;00:00<td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >10867049<td >HN18001523B<td >GH<td  style="vnd.ms-excel.numberformat:@">12.64<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">TRABECULECTOM&#32;AB&#32;EXTERNO<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-02-01&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >11549962<td >HN18010263A<td >GH<td  style="vnd.ms-excel.numberformat:@">12.66<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">POSTOP&#32;REVIS&#32;SCL&#32;FISTUL<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-08-01&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >11880556<td >HN171605657<td >QMH<td  style="vnd.ms-excel.numberformat:@">12.73<td  style="vnd.ms-excel.numberformat:@">95.04<td  style="vnd.ms-excel.numberformat:@">95.11<td  style="vnd.ms-excel.numberformat:@">95.04<td  style="vnd.ms-excel.numberformat:@">95.11<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td  style="vnd.ms-excel.numberformat:@">ANESTHETIZED&#32;EYE&#32;EXAM<td  style="vnd.ms-excel.numberformat:@">FUNDUS&#32;PHOTOGRAPHY<td  style="vnd.ms-excel.numberformat:@">ANESTHETIZED&#32;EYE&#32;EXAM<td  style="vnd.ms-excel.numberformat:@">FUNDUS&#32;PHOTOGRAPHY<td  style="vnd.ms-excel.numberformat:@">2018-01-04&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-01-04&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-01-04&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-01-04&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-01-04&#32;00:00
+<tr bgcolor=#DDFFFF>
+<td >11893703<td >HN18014208K<td >GH<td  style="vnd.ms-excel.numberformat:@">12.59<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">FACILIT&#32;INTRAOC&#32;CIRC&#32;NEC<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-10-22&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >11938455<td >HN18029693Y<td >QMH<td  style="vnd.ms-excel.numberformat:@">12.73<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td ><td ><td ><td ><td  style="vnd.ms-excel.numberformat:@">2018-03-08&#32;00:00<td ><td ><td ><td >
+<tr bgcolor=#DDFFFF>
+<td >11961274<td >HN171584617<td >QMH<td  style="vnd.ms-excel.numberformat:@">12.73<td  style="vnd.ms-excel.numberformat:@">88.75<td  style="vnd.ms-excel.numberformat:@">93.90<td  style="vnd.ms-excel.numberformat:@">88.71<td  style="vnd.ms-excel.numberformat:@">38.92<td  style="vnd.ms-excel.numberformat:@">CYCLOPHOTOCOAGULATION<td  style="vnd.ms-excel.numberformat:@">DX&#32;ULTRASOUND-URINARY<td  style="vnd.ms-excel.numberformat:@">CPAP<td  style="vnd.ms-excel.numberformat:@">DX&#32;ULTRASOUND-HEAD/NECK<td  style="vnd.ms-excel.numberformat:@">UMBILICAL&#32;VEIN&#32;CATH<td  style="vnd.ms-excel.numberformat:@">2018-03-06&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2017-12-19&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2017-12-20&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2017-12-20&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2017-12-20&#32;00:00
+<tr bgcolor=#DDFFFF>
+<td >12103750<td >HN180211410<td >QMH<td  style="vnd.ms-excel.numberformat:@">96.70<td  style="vnd.ms-excel.numberformat:@">99.29<td  style="vnd.ms-excel.numberformat:@">99.04<td  style="vnd.ms-excel.numberformat:@">99.15<td  style="vnd.ms-excel.numberformat:@">38.92<td  style="vnd.ms-excel.numberformat:@">CONT&#32;MECH&#32;VENT-TIME&#32;NOS<td >INJECT/INFUSE&#32;NEC<td  style="vnd.ms-excel.numberformat:@">PACKED&#32;CELL&#32;TRANSFUSION<td  style="vnd.ms-excel.numberformat:@">PARENTERAL&#32;NUTRITION<td  style="vnd.ms-excel.numberformat:@">UMBILICAL&#32;VEIN&#32;CATH<td  style="vnd.ms-excel.numberformat:@">2018-02-17&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-02-17&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-02-17&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-02-17&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-02-17&#32;00:00
+<tr bgcolor=#DDFFFF>
+<td >12168341<td >HN18087424Z<td >QMH<td  style="vnd.ms-excel.numberformat:@">96.72<td  style="vnd.ms-excel.numberformat:@">99.29<td  style="vnd.ms-excel.numberformat:@">99.07<td  style="vnd.ms-excel.numberformat:@">99.17<td  style="vnd.ms-excel.numberformat:@">88.72<td  style="vnd.ms-excel.numberformat:@">CONT&#32;MECH&#32;VENT-&gt;95&#32;HOURS<td >INJECT/INFUSE&#32;NEC<td  style="vnd.ms-excel.numberformat:@">SERUM&#32;TRANSFUSION&#32;NEC<td >INJECT&#32;INSULIN<td  style="vnd.ms-excel.numberformat:@">DX&#32;ULTRASOUND-HEART<td  style="vnd.ms-excel.numberformat:@">2018-07-18&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-07-12&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-07-13&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-07-15&#32;00:00<td  style="vnd.ms-excel.numberformat:@">2018-07-16&#32;00:00
+</table><BR>
+<font face='Verdana' size=2>No. of Records :80
+
+<p><table><b><font style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#FF0000; font-size: 8pt;'>::&nbsp;Disclaimer</font></b>
+<ul style='font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#FF0000; font-size: 8pt;'>
+<li>It is a good practice to seek endorsement from relevant parties (e.g. Head of Department, COC) in the HA before disclosure and/or publication of research and study results, particularly when the data are not from your own department.</li>
+<li>The researcher of any study project, clinical audit or publication that employs clinical information taken from CDARS should ensure that the data accuracy and completeness fit the definition of the research protocol.</li>
+</ul></table></p>
+
